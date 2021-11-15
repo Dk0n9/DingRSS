@@ -1,4 +1,5 @@
 cache:
   Placeholder:
     latest_id: this is placeholder
-
+  https://www.zerodayinitiative.com/blog/?format=rss:
+    latest_id: 5894c269e4fcb5e65a1ed623:58a5b38cb3db2bd67b608658:618aa9c07d41991f30ec6367

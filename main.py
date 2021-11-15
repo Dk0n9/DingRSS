@@ -82,7 +82,7 @@ class RSSBot(object):
             feed = self.parseFeed(url)
             if not feed:
                 continue
-            logging.debug("%s entries length: %d" % (url, len(feed.entries)))
+            print("%s entries length: %d" % (url, len(feed.entries)))
             self._pushMessage(feed.feed, feed.entries)
         if len(self._cardItems) > 0:
             self._sendCard()

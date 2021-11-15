@@ -1,8 +1,7 @@
 # DingRSS
 
 > Dingtalk RSS Bot powered by GitHub Actions
-> 
-> Currently only supports atom...
+>
 
 ## Subscrite list
 
@@ -12,13 +11,13 @@
 - [3gstudent-Blog](https://3gstudent.github.io/)
 - [MrTuxracer](https://www.rcesecurity.com/)
 - [HackerOne Hacker Activity](http://rss.ricterz.me/hacktivity)
-
-## TODO
-
-- Support RSS 2.0
+- [XPN InfoSec Blog](https://blog.xpnsec.com/)
+- [DEVCORE 戴夫寇爾](https://devco.re/)
+- [Niemand - Cyber Security](https://niemand.com.ar/)
+- [Blog de Gentil Kiwi](https://blog.gentilkiwi.com/)
 
 ## Contributing
 
 Contributions are welcome!
 
-* Submit RSS Feeds(Atom feed format) at **issue**
+* Submit RSS Feeds at **issue**

@@ -1,10 +1,13 @@
 # coding: utf8
+import ssl
 import logging
 import os.path
 
 from dingtalkchatbot.chatbot import DingtalkChatbot, CardItem
 import feedparser
 import yaml
+
+ssl._create_default_https_context = ssl._create_unverified_context
 
 
 class RSSBot(object):
@@ -30,20 +33,27 @@ class RSSBot(object):
         yaml.dump(self._caches, wp)
 
     def _pushMessage(self, feedMeta, feedEntries):
-        cards = []
         picUrl = "https://images.unsplash.com/photo-1548092372-0d1bd40894a3?ixid=" \
                  "MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=80"
         for entry in feedEntries:
             cardItem = CardItem(title=entry.title + " - " + feedMeta.title, url=entry.link, pic_url=picUrl)
-            cards.append(cardItem)
-        self._chatbot.send_feed_card(cards)
+            self._cardItems.append(cardItem)
+            if len(self._cardItems) == 5:
+                self._sendCard()
+
+    def _sendCard(self):
+        self._chatbot.send_feed_card(self._cardItems)
+        self._cardItems = []  # Reset cardItems
 
     def parseFeed(self, url):
         try:
             feed = feedparser.parse(url)
             feedCache = self._caches["cache"].get(url, None)
+            latestID = str(feed.entries[0]["id"])
+            if not latestID:
+                latestID = str(feed.entries[0]["link"])
             cache = {
-                "latest_id": str(feed.entries[0]["id"])
+                "latest_id": latestID
             }
             if not feedCache:
                 self._caches["cache"][url] = cache
@@ -72,7 +82,10 @@ class RSSBot(object):
             feed = self.parseFeed(url)
             if not feed:
                 continue
+            logging.debug("%s entries length: %d" % (url, len(feed.entries)))
             self._pushMessage(feed.feed, feed.entries)
+        if len(self._cardItems) > 0:
+            self._sendCard()
 
 
 if __name__ == '__main__':

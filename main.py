@@ -31,8 +31,8 @@ class RSSBot(object):
 
     def _pushMessage(self, feedMeta, feedEntries):
         cards = []
-        picUrl = "https://images.unsplash.com/photo-1548092372-0d1bd40894a3?ixid" \
-                 "=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=80 "
+        picUrl = "https://images.unsplash.com/photo-1548092372-0d1bd40894a3?ixid=" \
+                 "MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=80"
         for entry in feedEntries:
             cardItem = CardItem(title=entry.title + " - " + feedMeta.title, url=entry.link, pic_url=picUrl)
             cards.append(cardItem)
@@ -64,7 +64,7 @@ class RSSBot(object):
             else:
                 return None
         except Exception as err:
-            logging.error("%s exception: %s".format(url, err))
+            logging.error("{0} exception: {1}".format(url, err))
             return None
 
     def getNewFeed(self):

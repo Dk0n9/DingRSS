@@ -1,0 +1,39 @@
+name: DingRSS
+
+on:
+  schedule:
+    - cron: '0 0/1 * * *'
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v2
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.9.7
+    - name: Install dependencies
+      run: |
+        cd DingRSS
+        pip install -r requirements.txt
+    - name: Send RSS
+      env:
+        DD_TOKEN: ${{ secrets.DING_TOKEN }}
+        DD_SECRET: ${{ secrets.DING_SECRET }}
+      run: |
+        cd DingRSS
+        python main.py
+    - name: Commit
+      run: |
+        git config --global user.email ph4nt0merd@gmail.com
+        git config --global user.name ph4nt0merd
+        git add .
+        git commit -m "Update caches" -a
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        branch: main
+        github_token: ${{ secrets.COMMIT_TOKEN }}

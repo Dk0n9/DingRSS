@@ -18,14 +18,12 @@ jobs:
         python-version: 3.9.7
     - name: Install dependencies
       run: |
-        cd DingRSS
         pip install -r requirements.txt
     - name: Send RSS
       env:
         DD_TOKEN: ${{ secrets.DING_TOKEN }}
         DD_SECRET: ${{ secrets.DING_SECRET }}
       run: |
-        cd DingRSS
         python main.py
     - name: Commit
       run: |

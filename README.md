@@ -15,6 +15,7 @@
 - [DEVCORE 戴夫寇爾](https://devco.re/)
 - [Niemand - Cyber Security](https://niemand.com.ar/)
 - [Blog de Gentil Kiwi](https://blog.gentilkiwi.com/)
+- [project-zero](https://rsshub.app/project-zero-issues)
 
 ## Contributing
 

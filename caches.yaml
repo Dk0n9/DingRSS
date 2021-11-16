@@ -23,3 +23,5 @@ cache:
     latest_id: https://xlab.tencent.com/cn/2021/06/21/xlab-21-001/
   https://rsshub.app/project-zero-issues:
     latest_id: https://bugs.chromium.org/p/project-zero/issues/detail?id=2229
+  https://rsshub.app/security/pulses:
+    latest_id: https://sec.today/pulses/4e660923-5769-4f6c-a502-31aeb63dc7c8/

@@ -16,6 +16,7 @@
 - [Niemand - Cyber Security](https://niemand.com.ar/)
 - [Blog de Gentil Kiwi](https://blog.gentilkiwi.com/)
 - [project-zero](https://rsshub.app/project-zero-issues)
+- [sec.today](https://rsshub.app/security/pulses)
 
 ## Contributing
 

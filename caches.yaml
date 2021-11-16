@@ -13,6 +13,10 @@ cache:
     latest_id: https://devco.re/blog/2021/08/22/a-new-attack-surface-on-MS-exchange-part-3-ProxyShell
   https://niemand.com.ar/feed/:
     latest_id: https://niemand.com.ar/?p=1386
+  https://rsshub.app/project-zero-issues:
+    latest_id: https://bugs.chromium.org/p/project-zero/issues/detail?id=2229
+  https://rsshub.app/security/pulses:
+    latest_id: https://sec.today/pulses/1f09a43b-3337-4ab2-99cc-093e8f04f8a5/
   https://wiki.ioin.in/atom:
     latest_id: https://wiki.ioin.in/url/EoQE
   https://www.rcesecurity.com/feed.xml:
@@ -21,7 +25,3 @@ cache:
     latest_id: 5894c269e4fcb5e65a1ed623:58a5b38cb3db2bd67b608658:618aa9c07d41991f30ec6367
   https://xlab.tencent.com/cn/feed/:
     latest_id: https://xlab.tencent.com/cn/2021/06/21/xlab-21-001/
-  https://rsshub.app/project-zero-issues:
-    latest_id: https://bugs.chromium.org/p/project-zero/issues/detail?id=2229
-  https://rsshub.app/security/pulses:
-    latest_id: https://sec.today/pulses/4e660923-5769-4f6c-a502-31aeb63dc7c8/

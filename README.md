@@ -20,6 +20,7 @@
 - [Penetration Testing Lab](https://pentestlab.blog/)
 - [Technical Advisory – NCC Group Research](https://research.nccgroup.com/category/technical-advisory/)
 - [Red XOR Blue](https://blog.redxorblue.com/)
+- [Posts :: Cas van Cooten](https://casvancooten.com/posts/)
 
 ## Contributing
 

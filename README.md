@@ -19,6 +19,7 @@
 - [sec.today](https://rsshub.app/security/pulses)
 - [Penetration Testing Lab](https://pentestlab.blog/)
 - [Technical Advisory – NCC Group Research](https://research.nccgroup.com/category/technical-advisory/)
+- [Red XOR Blue](https://blog.redxorblue.com/)
 
 ## Contributing
 

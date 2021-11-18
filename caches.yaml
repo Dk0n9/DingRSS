@@ -29,3 +29,5 @@ cache:
     latest_id: http://pentestlab.blog/?p=29805
   https://research.nccgroup.com/category/technical-advisory/feed/atom/:
     latest_id: https://research.nccgroup.com/?p=12484
+  https://blog.redxorblue.com/atom.xml:
+    latest_id: tag:blogger.com,1999:blog-8176792450471116129.post-185230523795067423

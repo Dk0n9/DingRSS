@@ -11,3 +11,5 @@ subscrites:
   - "https://blog.gentilkiwi.com/feed"
   - "https://rsshub.app/project-zero-issues"
   - "https://rsshub.app/security/pulses"
+  - "https://pentestlab.blog/feed/atom/"
+  - "https://research.nccgroup.com/category/technical-advisory/feed/atom/"

@@ -24,7 +24,7 @@ cache:
   https://rsshub.app/project-zero-issues:
     latest_id: https://bugs.chromium.org/p/project-zero/issues/detail?id=2230
   https://rsshub.app/security/pulses:
-    latest_id: https://sec.today/pulses/19936b37-be2a-4336-904a-71d9d36900f6/
+    latest_id: https://sec.today/pulses/87baa7e5-1d87-412e-b49e-a290b3032dc7/
   https://wiki.ioin.in/atom:
     latest_id: https://wiki.ioin.in/url/YDmv
   https://www.rcesecurity.com/feed.xml:

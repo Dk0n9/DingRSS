@@ -2,7 +2,7 @@ cache:
   Placeholder:
     latest_id: this is placeholder
   http://rss.ricterz.me/hacktivity:
-    latest_id: https://hackerone.com/reports/1234531
+    latest_id: https://hackerone.com/reports/1397564
   https://3gstudent.github.io/atom.xml:
     latest_id: https://3gstudent.github.io/Confluence%E5%88%A9%E7%94%A8%E6%8C%87%E5%8D%97
   https://blog.gentilkiwi.com/feed:

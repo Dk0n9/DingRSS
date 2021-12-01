@@ -22,7 +22,7 @@ cache:
   https://research.nccgroup.com/category/technical-advisory/feed/atom/:
     latest_id: https://research.nccgroup.com/?p=12484
   https://rsshub.app/project-zero-issues:
-    latest_id: https://bugs.chromium.org/p/project-zero/issues/detail?id=2230
+    latest_id: https://bugs.chromium.org/p/project-zero/issues/detail?id=2237
   https://rsshub.app/security/pulses:
     latest_id: https://sec.today/pulses/ecf92264-3a54-422b-affa-575cb3a32220/
   https://wiki.ioin.in/atom:

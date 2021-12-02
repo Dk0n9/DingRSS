@@ -24,7 +24,7 @@ cache:
   https://pentestlab.blog/feed/atom/:
     latest_id: http://pentestlab.blog/?p=29805
   https://research.nccgroup.com/category/technical-advisory/feed/atom/:
-    latest_id: https://research.nccgroup.com/?p=12484
+    latest_id: https://research.nccgroup.com/?p=10957
   https://rsshub.app/project-zero-issues:
     latest_id: https://bugs.chromium.org/p/project-zero/issues/detail?id=2237
   https://rsshub.app/security/pulses:

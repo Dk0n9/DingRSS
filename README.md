@@ -21,6 +21,9 @@
 - [Technical Advisory – NCC Group Research](https://research.nccgroup.com/category/technical-advisory/)
 - [Red XOR Blue](https://blog.redxorblue.com/)
 - [Posts :: Cas van Cooten](https://casvancooten.com/posts/)
+- [S3cur3Th1sSh1t](https://s3cur3th1ssh1t.github.io/)
+- [plackyhacker Github](https://github.com/plackyhacker)
+- [Mr-Un1k0d3r Github](https://github.com/Mr-Un1k0d3r)
 
 ## Contributing
 

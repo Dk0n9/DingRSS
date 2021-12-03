@@ -16,7 +16,7 @@ cache:
   https://devco.re/rss:
     latest_id: https://devco.re/blog/2021/08/22/a-new-attack-surface-on-MS-exchange-part-3-ProxyShell
   https://github.com/Mr-Un1k0d3r.atom:
-    latest_id: tag:github.com,2008:PushEvent/19156199451
+    latest_id: tag:github.com,2008:PullRequestEvent/19169589169
   https://github.com/plackyhacker.atom:
     latest_id: tag:github.com,2008:WatchEvent/19073179172
   https://niemand.com.ar/feed/:

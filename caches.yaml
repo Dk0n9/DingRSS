@@ -18,7 +18,7 @@ cache:
   https://github.com/Mr-Un1k0d3r.atom:
     latest_id: tag:github.com,2008:PullRequestEvent/19169589169
   https://github.com/plackyhacker.atom:
-    latest_id: tag:github.com,2008:PushEvent/19175311033
+    latest_id: tag:github.com,2008:ForkEvent/19186484360
   https://niemand.com.ar/feed/:
     latest_id: https://niemand.com.ar/?p=1386
   https://pentestlab.blog/feed/atom/:

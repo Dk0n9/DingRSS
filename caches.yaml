@@ -18,7 +18,7 @@ cache:
   https://github.com/Mr-Un1k0d3r.atom:
     latest_id: tag:github.com,2008:PullRequestEvent/19169589169
   https://github.com/plackyhacker.atom:
-    latest_id: tag:github.com,2008:ForkEvent/19186484360
+    latest_id: tag:github.com,2008:PublicEvent/19188560532
   https://niemand.com.ar/feed/:
     latest_id: https://niemand.com.ar/?p=1386
   https://pentestlab.blog/feed/atom/:
@@ -28,7 +28,7 @@ cache:
   https://rsshub.app/project-zero-issues:
     latest_id: https://bugs.chromium.org/p/project-zero/issues/detail?id=2237
   https://rsshub.app/security/pulses:
-    latest_id: https://sec.today/pulses/197f7888-333f-4e25-b06c-8320691460f4/
+    latest_id: https://sec.today/pulses/5326cc0e-276b-4a43-a5ca-fc581d86aaea/
   https://s3cur3th1ssh1t.github.io/feed.xml:
     latest_id: https://s3cur3th1ssh1t.github.io/SharpImpersonation-Introduction
   https://wiki.ioin.in/atom:

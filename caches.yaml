@@ -15,6 +15,8 @@ cache:
     latest_id: https://casvancooten.com/posts/2021/10/so-you-wanna-hack-a-bank-global-central-bank-paces-certification-review/
   https://devco.re/rss:
     latest_id: https://devco.re/blog/2021/08/22/a-new-attack-surface-on-MS-exchange-part-3-ProxyShell
+  https://exploit.ph/feeds/all.atom.xml:
+    latest_id: tag:exploit.ph,2021-12-11:/more-samaccountname-impersonation.html
   https://github.com/Mr-Un1k0d3r.atom:
     latest_id: tag:github.com,2008:WatchEvent/19249443736
   https://github.com/plackyhacker.atom:
@@ -28,7 +30,7 @@ cache:
   https://rsshub.app/project-zero-issues:
     latest_id: https://bugs.chromium.org/p/project-zero/issues/detail?id=2241
   https://rsshub.app/security/pulses:
-    latest_id: https://sec.today/pulses/44468eb5-17eb-4153-be06-e1dea0ca0aba/
+    latest_id: https://sec.today/pulses/88c66611-e436-49b6-b58d-50a8a06255aa/
   https://s3cur3th1ssh1t.github.io/feed.xml:
     latest_id: https://s3cur3th1ssh1t.github.io/SharpImpersonation-Introduction
   https://wiki.ioin.in/atom:
@@ -39,5 +41,3 @@ cache:
     latest_id: 5894c269e4fcb5e65a1ed623:58a5b38cb3db2bd67b608658:61b156e326433c0d95df5548
   https://xlab.tencent.com/cn/feed/:
     latest_id: https://xlab.tencent.com/cn/2021/06/21/xlab-21-001/
-  https://exploit.ph/feeds/all.atom.xml:
-    latest_id: tag:exploit.ph,2021-12-11:/more-samaccountname-impersonation.html

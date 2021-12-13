@@ -25,6 +25,7 @@
 - [plackyhacker Github](https://github.com/plackyhacker)
 - [Mr-Un1k0d3r Github](https://github.com/Mr-Un1k0d3r)
 - [eXploit](https://exploit.ph/)
+- [impacket Pull requests](https://github.com/SecureAuthCorp/impacket/pulls)
 
 ## Contributing
 

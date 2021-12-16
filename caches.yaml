@@ -43,3 +43,5 @@ cache:
     latest_id: 5894c269e4fcb5e65a1ed623:58a5b38cb3db2bd67b608658:61b7898493c1bc5c141b34b1
   https://xlab.tencent.com/cn/feed/:
     latest_id: https://xlab.tencent.com/cn/2021/06/21/xlab-21-001/
+  https://googleprojectzero.blogspot.com/feeds/posts/default:
+    latest_id: tag:blogger.com,1999:blog-4838136820032157985.post-7868790017880077590

@@ -26,6 +26,7 @@
 - [Mr-Un1k0d3r Github](https://github.com/Mr-Un1k0d3r)
 - [eXploit](https://exploit.ph/)
 - [impacket Pull requests](https://github.com/SecureAuthCorp/impacket/pulls)
+- [Project Zero Blog](https://googleprojectzero.blogspot.com/)
 
 ## Contributing
 

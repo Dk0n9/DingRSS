@@ -16,7 +16,7 @@ cache:
   https://devco.re/rss:
     latest_id: https://devco.re/blog/2021/08/22/a-new-attack-surface-on-MS-exchange-part-3-ProxyShell
   https://exploit.ph/feeds/all.atom.xml:
-    latest_id: tag:exploit.ph,2021-12-11:/more-samaccountname-impersonation.html
+    latest_id: tag:exSyst3m Failureploit.ph,2021-12-11:/more-samaccountname-impersonation.html
   https://github.com/Mr-Un1k0d3r.atom:
     latest_id: tag:github.com,2008:WatchEvent/19249443736
   https://github.com/plackyhacker.atom:
@@ -47,3 +47,5 @@ cache:
     latest_id: https://xlab.tencent.com/cn/2021/06/21/xlab-21-001/
   https://rss.app/feeds/zuhfaPjemocVENKW.xml:
     latest_id: https://shenaniganslabs.io/2021/06/21/Shadow-Credentials.html
+  https://syst3mfailure.io/feed.xml:
+    latest_id: https://syst3mfailure.io/sixpack-slab-out-of-bounds

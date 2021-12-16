@@ -16,7 +16,7 @@ cache:
   https://devco.re/rss:
     latest_id: https://devco.re/blog/2021/08/22/a-new-attack-surface-on-MS-exchange-part-3-ProxyShell
   https://exploit.ph/feeds/all.atom.xml:
-    latest_id: tag:exSyst3m Failureploit.ph,2021-12-11:/more-samaccountname-impersonation.html
+    latest_id: tag:exploit.ph,2021-12-11:/more-samaccountname-impersonation.html
   https://github.com/Mr-Un1k0d3r.atom:
     latest_id: tag:github.com,2008:WatchEvent/19249443736
   https://github.com/plackyhacker.atom:
@@ -29,6 +29,8 @@ cache:
     latest_id: http://pentestlab.blog/?p=29805
   https://research.nccgroup.com/category/technical-advisory/feed/atom/:
     latest_id: https://research.nccgroup.com/?p=13794
+  https://rss.app/feeds/zuhfaPjemocVENKW.xml:
+    latest_id: 0fcdb3d733b77dc100f53f7afb9f52bb
   https://rsshub.app/github/pull/SecureAuthCorp/impacket:
     latest_id: https://github.com/SecureAuthCorp/impacket/pull/1004
   https://rsshub.app/project-zero-issues:
@@ -37,6 +39,8 @@ cache:
     latest_id: https://sec.today/pulses/b373f63c-7243-4be2-a3ce-868f7da5747b/
   https://s3cur3th1ssh1t.github.io/feed.xml:
     latest_id: https://s3cur3th1ssh1t.github.io/SharpImpersonation-Introduction
+  https://syst3mfailure.io/feed.xml:
+    latest_id: https://syst3mfailure.io/sixpack-slab-out-of-bounds
   https://wiki.ioin.in/atom:
     latest_id: https://wiki.ioin.in/url/2PK1
   https://www.rcesecurity.com/feed.xml:
@@ -45,7 +49,3 @@ cache:
     latest_id: 5894c269e4fcb5e65a1ed623:58a5b38cb3db2bd67b608658:61b7898493c1bc5c141b34b1
   https://xlab.tencent.com/cn/feed/:
     latest_id: https://xlab.tencent.com/cn/2021/06/21/xlab-21-001/
-  https://rss.app/feeds/zuhfaPjemocVENKW.xml:
-    latest_id: https://shenaniganslabs.io/2021/06/21/Shadow-Credentials.html
-  https://syst3mfailure.io/feed.xml:
-    latest_id: https://syst3mfailure.io/sixpack-slab-out-of-bounds

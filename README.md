@@ -27,6 +27,7 @@
 - [eXploit](https://exploit.ph/)
 - [impacket Pull requests](https://github.com/SecureAuthCorp/impacket/pulls)
 - [Project Zero Blog](https://googleprojectzero.blogspot.com/)
+- [Shenanigans Labs](https://shenaniganslabs.io/)
 
 ## Contributing
 

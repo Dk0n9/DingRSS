@@ -46,6 +46,6 @@ cache:
   https://www.rcesecurity.com/feed.xml:
     latest_id: https://www.rcesecurity.com/2020/11/Smuggling-an-un-exploitable-xss
   https://www.zerodayinitiative.com/blog/?format=rss:
-    latest_id: 5894c269e4fcb5e65a1ed623:58a5b38cb3db2bd67b608658:61bac8b2f22f076f2f89ceb6
+    latest_id: 5894c269e4fcb5e65a1ed623:58a5b38cb3db2bd67b608658:61bd1ae8a489e02a5133fc83
   https://xlab.tencent.com/cn/feed/:
     latest_id: https://xlab.tencent.com/cn/2021/06/21/xlab-21-001/

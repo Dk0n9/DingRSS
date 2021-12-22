@@ -30,7 +30,7 @@ cache:
   https://research.nccgroup.com/category/technical-advisory/feed/atom/:
     latest_id: https://research.nccgroup.com/?p=13794
   https://rss.app/feeds/rX5by85Q0daaYb6v.xml:
-    latest_id: 73da6aa07c9ad8def8d1dcac8c73c325
+    latest_id: 0fcdb3d733b77dc100f53f7afb9f52bb
   https://rsshub.app/github/pull/SecureAuthCorp/impacket:
     latest_id: https://github.com/SecureAuthCorp/impacket/pull/1004
   https://rsshub.app/project-zero-issues:

@@ -2,7 +2,7 @@ cache:
   Placeholder:
     latest_id: this is placeholder
   http://rss.ricterz.me/hacktivity:
-    latest_id: https://hackerone.com/reports/1121972
+    latest_id: https://hackerone.com/reports/1406598
   https://3gstudent.github.io/atom.xml:
     latest_id: https://3gstudent.github.io/%E5%88%A9%E7%94%A8TelemetryController%E5%AE%9E%E7%8E%B0%E7%9A%84%E5%90%8E%E9%97%A8%E5%88%86%E6%9E%90
   https://blog.gentilkiwi.com/feed:
@@ -18,7 +18,7 @@ cache:
   https://exploit.ph/feeds/all.atom.xml:
     latest_id: tag:exploit.ph,2021-12-11:/more-samaccountname-impersonation.html
   https://github.com/Mr-Un1k0d3r.atom:
-    latest_id: tag:github.com,2008:PushEvent/19386330572
+    latest_id: tag:github.com,2008:PushEvent/19453079630
   https://github.com/plackyhacker.atom:
     latest_id: tag:github.com,2008:PushEvent/19312973737
   https://googleprojectzero.blogspot.com/feeds/posts/default:

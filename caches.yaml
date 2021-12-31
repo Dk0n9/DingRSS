@@ -51,3 +51,5 @@ cache:
     latest_id: https://xlab.tencent.com/cn/2021/06/21/xlab-21-001/
   https://www.reddit.com/r/redteamsec/new.rss:
     latest_id: https://www.reddit.com/r/redteamsec/comments/rr3tvy/implantarmilobleeda_padvish_threats_database/
+  https://www.reddit.com/r/fuzzing/new.rss:
+    latest_id: https://www.reddit.com/r/fuzzing/comments/rqsf8u/fuzzuf_fuzzing_unification_framework/

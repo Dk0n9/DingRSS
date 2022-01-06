@@ -36,7 +36,7 @@ cache:
   https://rsshub.app/project-zero-issues:
     latest_id: https://bugs.chromium.org/p/project-zero/issues/detail?id=2241
   https://rsshub.app/security/pulses:
-    latest_id: https://sec.today/pulses/5da49f30-57fe-40cf-ae5b-1125f1b0c916/
+    latest_id: https://sec.today/pulses/54705664-02a7-4114-b8a4-6401c99c0822/
   https://s3cur3th1ssh1t.github.io/feed.xml:
     latest_id: https://s3cur3th1ssh1t.github.io/SharpImpersonation-Introduction
   https://syst3mfailure.io/feed.xml:
@@ -48,8 +48,8 @@ cache:
   https://www.reddit.com/r/fuzzing/new.rss:
     latest_id: https://www.reddit.com/r/fuzzing/t3_rwro30
   https://www.reddit.com/r/redteamsec/new.rss:
-    latest_id: https://www.reddit.com/r/redteamsec/t3_rxfkzo
+    latest_id: https://www.reddit.com/r/redteamsec/t3_rxjijb
   https://www.zerodayinitiative.com/blog/?format=rss:
-    latest_id: 5894c269e4fcb5e65a1ed623:58a5b38cb3db2bd67b608658:61bd1ae8a489e02a5133fc83
+    latest_id: 5894c269e4fcb5e65a1ed623:58a5b38cb3db2bd67b608658:61d5f120b782d1183c588891
   https://xlab.tencent.com/cn/feed/:
     latest_id: https://xlab.tencent.com/cn/2021/06/21/xlab-21-001/

@@ -20,7 +20,7 @@ cache:
   https://github.com/Mr-Un1k0d3r.atom:
     latest_id: tag:github.com,2008:PushEvent/19579821296
   https://github.com/plackyhacker.atom:
-    latest_id: tag:github.com,2008:PushEvent/19952526548
+    latest_id: tag:github.com,2008:PushEvent/19953333874
   https://googleprojectzero.blogspot.com/feeds/posts/default:
     latest_id: tag:blogger.com,1999:blog-4838136820032157985.post-1246610633949568195
   https://niemand.com.ar/feed/:
@@ -48,7 +48,7 @@ cache:
   https://www.reddit.com/r/fuzzing/new.rss:
     latest_id: https://www.reddit.com/r/fuzzing/t3_sdxlvb
   https://www.reddit.com/r/redteamsec/new.rss:
-    latest_id: https://www.reddit.com/r/redteamsec/t3_sdtgv6
+    latest_id: https://www.reddit.com/r/redteamsec/t3_se706r
   https://www.zerodayinitiative.com/blog/?format=rss:
     latest_id: 5894c269e4fcb5e65a1ed623:58a5b38cb3db2bd67b608658:61f02efc24b7ca6f704ac1c3
   https://xlab.tencent.com/cn/feed/:

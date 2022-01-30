@@ -18,9 +18,9 @@ cache:
   https://exploit.ph/feeds/all.atom.xml:
     latest_id: tag:exploit.ph,2021-12-11:/more-samaccountname-impersonation.html
   https://github.com/Mr-Un1k0d3r.atom:
-    latest_id: tag:github.com,2008:PushEvent/19579821296
+    latest_id: tag:github.com,2008:PushEvent/19986319294
   https://github.com/plackyhacker.atom:
-    latest_id: tag:github.com,2008:PushEvent/19985736699
+    latest_id: tag:github.com,2008:PushEvent/19986185763
   https://googleprojectzero.blogspot.com/feeds/posts/default:
     latest_id: tag:blogger.com,1999:blog-4838136820032157985.post-1246610633949568195
   https://niemand.com.ar/feed/:

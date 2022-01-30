@@ -2,7 +2,7 @@ cache:
   Placeholder:
     latest_id: this is placeholder
   http://rss.ricterz.me/hacktivity:
-    latest_id: https://hackerone.com/reports/896338
+    latest_id: https://hackerone.com/reports/1462175
   https://3gstudent.github.io/atom.xml:
     latest_id: https://3gstudent.github.io/Exchange-Web-Service(EWS)%E5%BC%80%E5%8F%91%E6%8C%87%E5%8D%976-requests_ntlm
   https://blog.gentilkiwi.com/feed:
@@ -20,7 +20,7 @@ cache:
   https://github.com/Mr-Un1k0d3r.atom:
     latest_id: tag:github.com,2008:PushEvent/19579821296
   https://github.com/plackyhacker.atom:
-    latest_id: tag:github.com,2008:PushEvent/19962390255
+    latest_id: tag:github.com,2008:PushEvent/19984966279
   https://googleprojectzero.blogspot.com/feeds/posts/default:
     latest_id: tag:blogger.com,1999:blog-4838136820032157985.post-1246610633949568195
   https://niemand.com.ar/feed/:

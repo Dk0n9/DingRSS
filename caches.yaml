@@ -2,7 +2,7 @@ cache:
   Placeholder:
     latest_id: this is placeholder
   http://rss.ricterz.me/hacktivity:
-    latest_id: https://hackerone.com/reports/1454359
+    latest_id: https://hackerone.com/reports/1406938
   https://3gstudent.github.io/atom.xml:
     latest_id: https://3gstudent.github.io/Exchange-Web-Service(EWS)%E5%BC%80%E5%8F%91%E6%8C%87%E5%8D%976-requests_ntlm
   https://blog.gentilkiwi.com/feed:
@@ -18,7 +18,7 @@ cache:
   https://exploit.ph/feeds/all.atom.xml:
     latest_id: tag:exploit.ph,2021-12-11:/more-samaccountname-impersonation.html
   https://github.com/Mr-Un1k0d3r.atom:
-    latest_id: tag:github.com,2008:PushEvent/19986319294
+    latest_id: tag:github.com,2008:PushEvent/20020789934
   https://github.com/plackyhacker.atom:
     latest_id: tag:github.com,2008:PushEvent/20003679066
   https://googleprojectzero.blogspot.com/feeds/posts/default:
@@ -42,7 +42,7 @@ cache:
   https://syst3mfailure.io/feed.xml:
     latest_id: https://syst3mfailure.io/sixpack-slab-out-of-bounds
   https://wiki.ioin.in/atom:
-    latest_id: https://wiki.ioin.in/url/LXJJ
+    latest_id: https://wiki.ioin.in/url/4VPQ
   https://www.rcesecurity.com/feed.xml:
     latest_id: https://www.rcesecurity.com/2020/11/Smuggling-an-un-exploitable-xss
   https://www.reddit.com/r/fuzzing/new.rss:

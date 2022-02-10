@@ -22,7 +22,7 @@ cache:
   https://github.com/plackyhacker.atom:
     latest_id: tag:github.com,2008:IssueCommentEvent/20158762542
   https://googleprojectzero.blogspot.com/feeds/posts/default:
-    latest_id: tag:blogger.com,1999:blog-4838136820032157985.post-1246610633949568195
+    latest_id: tag:blogger.com,1999:blog-4838136820032157985.post-3889819885234441482
   https://niemand.com.ar/feed/:
     latest_id: https://niemand.com.ar/?p=1386
   https://pentestlab.blog/feed/atom/:
@@ -50,6 +50,6 @@ cache:
   https://www.reddit.com/r/redteamsec/new.rss:
     latest_id: https://www.reddit.com/r/redteamsec/t3_sp4ul4
   https://www.zerodayinitiative.com/blog/?format=rss:
-    latest_id: 5894c269e4fcb5e65a1ed623:58a5b38cb3db2bd67b608658:6202a81c37c0ea6365d7984d
+    latest_id: 5894c269e4fcb5e65a1ed623:58a5b38cb3db2bd67b608658:61f856dfc256f629069a999f
   https://xlab.tencent.com/cn/feed/:
     latest_id: https://xlab.tencent.com/cn/2021/06/21/xlab-21-001/

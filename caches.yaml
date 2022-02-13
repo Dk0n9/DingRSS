@@ -20,7 +20,7 @@ cache:
   https://github.com/Mr-Un1k0d3r.atom:
     latest_id: tag:github.com,2008:PushEvent/20042934229
   https://github.com/plackyhacker.atom:
-    latest_id: tag:github.com,2008:PushEvent/20205833698
+    latest_id: tag:github.com,2008:PushEvent/20230788004
   https://googleprojectzero.blogspot.com/feeds/posts/default:
     latest_id: tag:blogger.com,1999:blog-4838136820032157985.post-3889819885234441482
   https://niemand.com.ar/feed/:
@@ -36,7 +36,7 @@ cache:
   https://rsshub.app/project-zero-issues:
     latest_id: https://bugs.chromium.org/p/project-zero/issues/detail?id=2247
   https://rsshub.app/security/pulses:
-    latest_id: https://sec.today/pulses/5017fc18-f3f8-40aa-939a-9ccae02826d8/
+    latest_id: https://sec.today/pulses/e4c0a37e-7a14-454f-9dbb-044ea1994a23/
   https://s3cur3th1ssh1t.github.io/feed.xml:
     latest_id: https://s3cur3th1ssh1t.github.io/SharpImpersonation-Introduction
   https://syst3mfailure.io/feed.xml:

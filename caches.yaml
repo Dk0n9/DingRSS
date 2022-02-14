@@ -20,7 +20,7 @@ cache:
   https://github.com/Mr-Un1k0d3r.atom:
     latest_id: tag:github.com,2008:PushEvent/20042934229
   https://github.com/plackyhacker.atom:
-    latest_id: tag:github.com,2008:PushEvent/20230815930
+    latest_id: tag:github.com,2008:ForkEvent/20252077880
   https://googleprojectzero.blogspot.com/feeds/posts/default:
     latest_id: tag:blogger.com,1999:blog-4838136820032157985.post-3889819885234441482
   https://niemand.com.ar/feed/:
@@ -42,7 +42,7 @@ cache:
   https://syst3mfailure.io/feed.xml:
     latest_id: https://syst3mfailure.io/sixpack-slab-out-of-bounds
   https://wiki.ioin.in/atom:
-    latest_id: https://wiki.ioin.in/url/8n03
+    latest_id: https://wiki.ioin.in/url/OjM0
   https://www.rcesecurity.com/feed.xml:
     latest_id: https://www.rcesecurity.com/2020/11/Smuggling-an-un-exploitable-xss
   https://www.reddit.com/r/fuzzing/new.rss:

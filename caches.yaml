@@ -26,7 +26,7 @@ cache:
   https://niemand.com.ar/feed/:
     latest_id: https://niemand.com.ar/?p=1386
   https://pentestlab.blog/feed/atom/:
-    latest_id: http://pentestlab.blog/?p=30239
+    latest_id: http://pentestlab.blog/?p=30353
   https://research.nccgroup.com/category/technical-advisory/feed/atom/:
     latest_id: https://research.nccgroup.com/?p=13794
   https://rss.app/feeds/rX5by85Q0daaYb6v.xml:

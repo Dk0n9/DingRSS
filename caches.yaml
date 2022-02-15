@@ -10,7 +10,7 @@ cache:
   https://blog.redxorblue.com/atom.xml:
     latest_id: tag:blogger.com,1999:blog-8176792450471116129.post-185230523795067423
   https://blog.xpnsec.com/rss.xml:
-    latest_id: https://blog.xpnsec.com/weird-ways-to-execute-dotnet/
+    latest_id: https://blog.xpnsec.com/object-overloading/
   https://casvancooten.com/posts/index.xml:
     latest_id: https://casvancooten.com/posts/2021/10/so-you-wanna-hack-a-bank-global-central-bank-paces-certification-review/
   https://devco.re/rss:

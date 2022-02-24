@@ -46,7 +46,7 @@ cache:
   https://www.rcesecurity.com/feed.xml:
     latest_id: https://www.rcesecurity.com/2020/11/Smuggling-an-un-exploitable-xss
   https://www.reddit.com/r/fuzzing/new.rss:
-    latest_id: https://www.reddit.com/r/fuzzing/t3_sw8dcv
+    latest_id: https://www.reddit.com/r/fuzzing/t3_t0kr7m
   https://www.reddit.com/r/redteamsec/new.rss:
     latest_id: https://www.reddit.com/r/redteamsec/t3_szm6lc
   https://www.zerodayinitiative.com/blog/?format=rss:

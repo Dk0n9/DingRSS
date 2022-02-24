@@ -36,7 +36,7 @@ cache:
   https://rsshub.app/project-zero-issues:
     latest_id: https://bugs.chromium.org/p/project-zero/issues/detail?id=2247
   https://rsshub.app/security/pulses:
-    latest_id: https://sec.today/pulses/24f01af1-eca4-4ab2-8479-ffd946d8f82c/
+    latest_id: https://sec.today/pulses/3e59d278-dcba-45c3-aea6-2f378396e488/
   https://s3cur3th1ssh1t.github.io/feed.xml:
     latest_id: https://s3cur3th1ssh1t.github.io/SharpImpersonation-Introduction
   https://syst3mfailure.io/feed.xml:

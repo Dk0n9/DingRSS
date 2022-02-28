@@ -42,7 +42,7 @@ cache:
   https://syst3mfailure.io/feed.xml:
     latest_id: https://syst3mfailure.io/sixpack-slab-out-of-bounds
   https://wiki.ioin.in/atom:
-    latest_id: https://wiki.ioin.in/url/DAxn
+    latest_id: https://wiki.ioin.in/url/7KxE
   https://www.rcesecurity.com/feed.xml:
     latest_id: https://www.rcesecurity.com/2020/11/Smuggling-an-un-exploitable-xss
   https://www.reddit.com/r/fuzzing/new.rss:

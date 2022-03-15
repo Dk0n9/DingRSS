@@ -28,7 +28,7 @@ cache:
   https://pentestlab.blog/feed/atom/:
     latest_id: http://pentestlab.blog/?p=30353
   https://research.nccgroup.com/category/technical-advisory/feed/atom/:
-    latest_id: https://research.nccgroup.com/?p=13794
+    latest_id: https://research.nccgroup.com/?p=15228
   https://rss.app/feeds/rX5by85Q0daaYb6v.xml:
     latest_id: 035b6da529fc89fd61f98c5d5cc1af8d
   https://rsshub.app/github/pull/SecureAuthCorp/impacket:

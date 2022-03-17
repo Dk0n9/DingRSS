@@ -25,3 +25,4 @@ subscrites:
   - "https://syst3mfailure.io/feed.xml"
   - "https://www.reddit.com/r/redteamsec/new.rss"
   - "https://www.reddit.com/r/fuzzing/new.rss"
+  - "https://blog.badsectorlabs.com/feeds/all.atom.xml"

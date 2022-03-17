@@ -31,6 +31,7 @@
 - [Syst3m Failure](https://syst3mfailure.io/)
 - [Reddit / Red Team Security](https://www.reddit.com/r/redteamsec/)
 - [Reddit / Fuzzing](https://www.reddit.com/r/fuzzing/)
+- [Bad Sector Labs Blog](https://blog.badsectorlabs.com/)
 
 ## Contributing
 

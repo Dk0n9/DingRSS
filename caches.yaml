@@ -34,7 +34,7 @@ cache:
   https://rss.app/feeds/rX5by85Q0daaYb6v.xml:
     latest_id: 035b6da529fc89fd61f98c5d5cc1af8d
   https://rsshub.app/github/pull/SecureAuthCorp/impacket:
-    latest_id: https://github.com/SecureAuthCorp/impacket/pull/1028
+    latest_id: https://github.com/SecureAuthCorp/impacket/pull/1280
   https://rsshub.app/project-zero-issues:
     latest_id: https://bugs.chromium.org/p/project-zero/issues/detail?id=2253
   https://rsshub.app/security/pulses:

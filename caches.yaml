@@ -28,7 +28,7 @@ cache:
   https://niemand.com.ar/feed/:
     latest_id: https://niemand.com.ar/?p=1386
   https://pentestlab.blog/feed/atom/:
-    latest_id: http://pentestlab.blog/?p=30353
+    latest_id: http://pentestlab.blog/?p=29879
   https://research.nccgroup.com/category/technical-advisory/feed/atom/:
     latest_id: https://research.nccgroup.com/?p=15228
   https://rss.app/feeds/rX5by85Q0daaYb6v.xml:
@@ -38,7 +38,7 @@ cache:
   https://rsshub.app/project-zero-issues:
     latest_id: https://bugs.chromium.org/p/project-zero/issues/detail?id=2253
   https://rsshub.app/security/pulses:
-    latest_id: https://sec.today/pulses/b32b9fde-820b-4261-b61f-8265723c6021/
+    latest_id: https://sec.today/pulses/d422bcca-c6d3-4092-a1a8-76d16aff5e1e/
   https://s3cur3th1ssh1t.github.io/feed.xml:
     latest_id: https://s3cur3th1ssh1t.github.io/Reflective-Dump-Tools
   https://syst3mfailure.io/feed.xml:
@@ -50,7 +50,7 @@ cache:
   https://www.reddit.com/r/fuzzing/new.rss:
     latest_id: https://www.reddit.com/r/fuzzing/t3_tgcpzw
   https://www.reddit.com/r/redteamsec/new.rss:
-    latest_id: https://www.reddit.com/r/redteamsec/t3_tjfe7j
+    latest_id: https://www.reddit.com/r/redteamsec/t3_tjgxd6
   https://www.zerodayinitiative.com/blog/?format=rss:
     latest_id: 5894c269e4fcb5e65a1ed623:58a5b38cb3db2bd67b608658:62324cbc093b401c19362d64
   https://xlab.tencent.com/cn/feed/:

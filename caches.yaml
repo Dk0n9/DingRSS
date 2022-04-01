@@ -50,7 +50,7 @@ cache:
   https://www.reddit.com/r/fuzzing/new.rss:
     latest_id: https://www.reddit.com/r/fuzzing/t3_tspmbv
   https://www.reddit.com/r/redteamsec/new.rss:
-    latest_id: https://www.reddit.com/r/redteamsec/t3_ttl37t
+    latest_id: https://www.reddit.com/r/redteamsec/t3_tsnmkh
   https://www.zerodayinitiative.com/blog/?format=rss:
     latest_id: 5894c269e4fcb5e65a1ed623:58a5b38cb3db2bd67b608658:62324cbc093b401c19362d64
   https://xlab.tencent.com/cn/feed/:

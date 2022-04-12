@@ -50,8 +50,8 @@ cache:
   https://www.reddit.com/r/fuzzing/new.rss:
     latest_id: https://www.reddit.com/r/fuzzing/t3_tz9sre
   https://www.reddit.com/r/redteamsec/new.rss:
-    latest_id: https://www.reddit.com/r/redteamsec/t3_u20n49
+    latest_id: https://www.reddit.com/r/redteamsec/t3_u24xog
   https://www.zerodayinitiative.com/blog/?format=rss:
-    latest_id: 5894c269e4fcb5e65a1ed623:58a5b38cb3db2bd67b608658:624efcca99d235398b4956bf
+    latest_id: 5894c269e4fcb5e65a1ed623:58a5b38cb3db2bd67b608658:6254ce0981447204b3f3a4ba
   https://xlab.tencent.com/cn/feed/:
     latest_id: https://xlab.tencent.com/cn/2021/06/21/xlab-21-001/

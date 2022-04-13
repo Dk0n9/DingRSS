@@ -38,7 +38,7 @@ cache:
   https://rsshub.app/project-zero-issues:
     latest_id: https://bugs.chromium.org/p/project-zero/issues/detail?id=2258
   https://rsshub.app/security/pulses:
-    latest_id: https://sec.today/pulses/4ba41fdd-3a96-4601-b94d-55ef2a400e36/
+    latest_id: https://sec.today/pulses/78cad820-3cc2-400d-ab6c-4da4ab0c08e0/
   https://s3cur3th1ssh1t.github.io/feed.xml:
     latest_id: https://s3cur3th1ssh1t.github.io/Reflective-Dump-Tools
   https://syst3mfailure.io/feed.xml:

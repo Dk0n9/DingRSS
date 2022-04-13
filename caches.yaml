@@ -2,7 +2,7 @@ cache:
   Placeholder:
     latest_id: this is placeholder
   http://rss.ricterz.me/hacktivity:
-    latest_id: https://hackerone.com/reports/1474017
+    latest_id: https://hackerone.com/reports/1514359
   https://3gstudent.github.io/atom.xml:
     latest_id: https://3gstudent.github.io/Windows-Communication-Foundation%E5%BC%80%E5%8F%91%E6%8C%87%E5%8D%972-%E7%A6%81%E7%94%A8%E5%85%83%E6%95%B0%E6%8D%AE%E5%8F%91%E5%B8%83
   https://blog.badsectorlabs.com/feeds/all.atom.xml:
@@ -34,7 +34,7 @@ cache:
   https://rss.app/feeds/rX5by85Q0daaYb6v.xml:
     latest_id: 035b6da529fc89fd61f98c5d5cc1af8d
   https://rsshub.app/github/pull/SecureAuthCorp/impacket:
-    latest_id: https://github.com/SecureAuthCorp/impacket/pull/1294
+    latest_id: https://github.com/SecureAuthCorp/impacket/pull/1295
   https://rsshub.app/project-zero-issues:
     latest_id: https://bugs.chromium.org/p/project-zero/issues/detail?id=2258
   https://rsshub.app/security/pulses:

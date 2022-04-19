@@ -20,11 +20,11 @@ cache:
   https://exploit.ph/feeds/all.atom.xml:
     latest_id: tag:exploit.ph,2021-12-11:/more-samaccountname-impersonation.html
   https://github.com/Mr-Un1k0d3r.atom:
-    latest_id: tag:github.com,2008:PushEvent/21257836603
+    latest_id: tag:github.com,2008:PushEvent/21358131756
   https://github.com/plackyhacker.atom:
     latest_id: tag:github.com,2008:ForkEvent/21144697321
   https://googleprojectzero.blogspot.com/feeds/posts/default:
-    latest_id: tag:blogger.com,1999:blog-4838136820032157985.post-5933797027217125856
+    latest_id: tag:blogger.com,1999:blog-4838136820032157985.post-3023870154175197326
   https://niemand.com.ar/feed/:
     latest_id: https://niemand.com.ar/?p=1386
   https://pentestlab.blog/feed/atom/:
@@ -38,7 +38,7 @@ cache:
   https://rsshub.app/project-zero-issues:
     latest_id: https://bugs.chromium.org/p/project-zero/issues/detail?id=2258
   https://rsshub.app/security/pulses:
-    latest_id: https://sec.today/pulses/8a38a6b0-4fcd-4fa5-abc1-1ac64e4d2908/
+    latest_id: https://sec.today/pulses/b89ac4bd-d303-4208-821b-ea81f201013a/
   https://s3cur3th1ssh1t.github.io/feed.xml:
     latest_id: https://s3cur3th1ssh1t.github.io/Reflective-Dump-Tools
   https://syst3mfailure.io/feed.xml:

@@ -6,7 +6,7 @@ cache:
   https://3gstudent.github.io/atom.xml:
     latest_id: https://3gstudent.github.io/Windows-Communication-Foundation%E5%BC%80%E5%8F%91%E6%8C%87%E5%8D%972-%E7%A6%81%E7%94%A8%E5%85%83%E6%95%B0%E6%8D%AE%E5%8F%91%E5%B8%83
   https://blog.badsectorlabs.com/feeds/all.atom.xml:
-    latest_id: tag:blog.badsectorlabs.com,2022-04-11:/last-week-in-security-lwis-2022-04-11.html
+    latest_id: tag:blog.badsectorlabs.com,2022-04-18:/last-week-in-security-lwis-2022-04-18.html
   https://blog.gentilkiwi.com/feed:
     latest_id: http://blog.gentilkiwi.com/?p=3321
   https://blog.redxorblue.com/atom.xml:
@@ -38,7 +38,7 @@ cache:
   https://rsshub.app/project-zero-issues:
     latest_id: https://bugs.chromium.org/p/project-zero/issues/detail?id=2258
   https://rsshub.app/security/pulses:
-    latest_id: https://sec.today/pulses/18fd7038-01e0-4b9e-953e-cd868c919472/
+    latest_id: https://sec.today/pulses/8a38a6b0-4fcd-4fa5-abc1-1ac64e4d2908/
   https://s3cur3th1ssh1t.github.io/feed.xml:
     latest_id: https://s3cur3th1ssh1t.github.io/Reflective-Dump-Tools
   https://syst3mfailure.io/feed.xml:

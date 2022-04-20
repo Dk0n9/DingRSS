@@ -36,6 +36,10 @@
 - [aaaddress1 Gist](https://gist.github.com/aaaddress1)
 - [ujin5 Gist](https://gist.github.com/ujin5)
 - [CCob Gist](https://gist.github.com/CCob)
+- [xpn Gist](https://gist.github.com/xpn)
+- [monoxgas Gist](https://gist.github.com/monoxgas)
+- [nullbind Gist](https://gist.github.com/nullbind)
+- [HarmJ0y Gist](https://gist.github.com/HarmJ0y)
 
 ## Contributing
 

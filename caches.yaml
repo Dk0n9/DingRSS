@@ -63,3 +63,11 @@ cache:
     latest_id: tag:gist.github.com,2008:Gist/ujin5/6b9a32eedc5a39d714a3a72f06efffe5
   https://gist.github.com/CCob.atom:
     latest_id: tag:gist.github.com,2008:Gist/CCob/fe3b63d80890fafeca982f76c8a3efdf
+  https://gist.github.com/xpn.atom:
+    latest_id: tag:gist.github.com,2008:Gist/xpn/8486cea3e3f7d41c8a6db6d0baa5960a
+  https://gist.github.com/monoxgas.atom:
+    latest_id: tag:gist.github.com,2008:Gist/monoxgas/c0b0f086fc7aa057a8256b42c66761c8
+  https://gist.github.com/nullbind.atom:
+    latest_id: tag:gist.github.com,2008:Gist/nullbind/bd1b12da6038f91e8cca64130072ceb6
+  https://gist.github.com/HarmJ0y.atom:
+    latest_id: tag:gist.github.com,2008:Gist/HarmJ0y/eb2d41b68cd62c8895a80ca4219bc0a6

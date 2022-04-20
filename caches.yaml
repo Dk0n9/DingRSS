@@ -47,11 +47,19 @@ cache:
     latest_id: https://wiki.ioin.in/url/1G4n
   https://www.rcesecurity.com/feed.xml:
     latest_id: https://www.rcesecurity.com/2020/11/Smuggling-an-un-exploitable-xss
-  https://www.reddit.com/r/fuzzing/new.rss:
-    latest_id: https://www.reddit.com/r/fuzzing/t3_u6yvq1
   https://www.reddit.com/r/redteamsec/new.rss:
     latest_id: https://www.reddit.com/r/redteamsec/t3_u72xxr
   https://www.zerodayinitiative.com/blog/?format=rss:
     latest_id: 5894c269e4fcb5e65a1ed623:58a5b38cb3db2bd67b608658:62583670c7df64794d977aa5
   https://xlab.tencent.com/cn/feed/:
     latest_id: https://xlab.tencent.com/cn/2021/06/21/xlab-21-001/
+  https://gist.github.com/coldfusion39.atom:
+    latest_id: tag:gist.github.com,2008:Gist/coldfusion39/e36a2b5f33b679018a5f6d9391af9b30
+  https://gist.github.com/S3cur3Th1sSh1t.atom:
+    latest_id: tag:gist.github.com,2008:Gist/S3cur3Th1sSh1t/18114a804a4819431107806319e91571
+  https://gist.github.com/aaaddress1.atom:
+    latest_id: tag:gist.github.com,2008:Gist/aaaddress1/92b5600d12a304fd0ddd5fd9a1bdd5a6
+  https://gist.github.com/ujin5.atom:
+    latest_id: tag:gist.github.com,2008:Gist/ujin5/6b9a32eedc5a39d714a3a72f06efffe5
+  https://gist.github.com/CCob.atom:
+    latest_id: tag:gist.github.com,2008:Gist/CCob/fe3b63d80890fafeca982f76c8a3efdf

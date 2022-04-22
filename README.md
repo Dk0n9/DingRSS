@@ -29,7 +29,6 @@
 - [Project Zero Blog](https://googleprojectzero.blogspot.com/)
 - [Shenanigans Labs](https://shenaniganslabs.io/)
 - [Syst3m Failure](https://syst3mfailure.io/)
-- [Reddit / Red Team Security](https://www.reddit.com/r/redteamsec/)
 - [Bad Sector Labs Blog](https://blog.badsectorlabs.com/)
 - [coldfusion39 Gist](https://gist.github.com/coldfusion39)
 - [S3cur3Th1sSh1t Gist](https://gist.github.com/S3cur3Th1sSh1t)

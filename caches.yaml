@@ -54,13 +54,13 @@ cache:
   https://rsshub.app/project-zero-issues:
     latest_id: https://bugs.chromium.org/p/project-zero/issues/detail?id=2274
   https://rsshub.app/security/pulses:
-    latest_id: https://sec.today/pulses/29cea111-c4cc-442c-b79a-71c658662208/
+    latest_id: https://sec.today/pulses/205f7210-4263-4b41-8b6b-509bde5a075e/
   https://s3cur3th1ssh1t.github.io/feed.xml:
     latest_id: https://s3cur3th1ssh1t.github.io/Reflective-Dump-Tools
   https://syst3mfailure.io/feed.xml:
     latest_id: https://syst3mfailure.io/sixpack-slab-out-of-bounds
   https://wiki.ioin.in/atom:
-    latest_id: https://wiki.ioin.in/url/Ojl4
+    latest_id: https://wiki.ioin.in/url/oogD
   https://www.rcesecurity.com/feed.xml:
     latest_id: https://www.rcesecurity.com/2022/04/AWAE-Course-and-OSWE-Exam-Review
   https://www.zerodayinitiative.com/blog/?format=rss:

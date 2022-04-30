@@ -39,6 +39,7 @@
 - [monoxgas Gist](https://gist.github.com/monoxgas)
 - [nullbind Gist](https://gist.github.com/nullbind)
 - [HarmJ0y Gist](https://gist.github.com/HarmJ0y)
+- [LOLBAS Pull requests](https://github.com/LOLBAS-Project/LOLBAS/pulls)
 
 ## Contributing
 

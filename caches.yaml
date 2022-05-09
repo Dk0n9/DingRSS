@@ -52,9 +52,9 @@ cache:
   https://rss.app/feeds/rX5by85Q0daaYb6v.xml:
     latest_id: 035b6da529fc89fd61f98c5d5cc1af8d
   https://rsshub.app/project-zero-issues:
-    latest_id: https://bugs.chromium.org/p/project-zero/issues/detail?id=2274
+    latest_id: https://bugs.chromium.org/p/project-zero/issues/detail?id=2276
   https://rsshub.app/security/pulses:
-    latest_id: https://sec.today/pulses/a48fc4ef-78f1-4dec-8d3f-67aec1b0e651/
+    latest_id: https://sec.today/pulses/f2d6733f-b456-4e55-a1ea-5dd489929f5d/
   https://s3cur3th1ssh1t.github.io/feed.xml:
     latest_id: https://s3cur3th1ssh1t.github.io/Reflective-Dump-Tools
   https://syst3mfailure.io/feed.xml:

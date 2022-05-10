@@ -42,7 +42,7 @@ cache:
   https://github.com/plackyhacker.atom:
     latest_id: tag:github.com,2008:PushEvent/21413804934
   https://googleprojectzero.blogspot.com/feeds/posts/default:
-    latest_id: tag:blogger.com,1999:blog-4838136820032157985.post-3023870154175197326
+    latest_id: tag:blogger.com,1999:blog-4838136820032157985.post-6171588576768270104
   https://niemand.com.ar/feed/:
     latest_id: https://niemand.com.ar/?p=1386
   https://pentestlab.blog/feed/atom/:

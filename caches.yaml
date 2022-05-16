@@ -2,7 +2,7 @@ cache:
   Placeholder:
     latest_id: this is placeholder
   http://rss.ricterz.me/hacktivity:
-    latest_id: https://hackerone.com/reports/1486327
+    latest_id: https://hackerone.com/reports/1554888
   https://3gstudent.github.io/atom.xml:
     latest_id: https://3gstudent.github.io/Windows-Communication-Foundation%E5%BC%80%E5%8F%91%E6%8C%87%E5%8D%972-%E7%A6%81%E7%94%A8%E5%85%83%E6%95%B0%E6%8D%AE%E5%8F%91%E5%B8%83
   https://blog.badsectorlabs.com/feeds/all.atom.xml:
@@ -60,7 +60,7 @@ cache:
   https://syst3mfailure.io/feed.xml:
     latest_id: https://syst3mfailure.io/sixpack-slab-out-of-bounds
   https://wiki.ioin.in/atom:
-    latest_id: https://wiki.ioin.in/url/6n9O
+    latest_id: https://wiki.ioin.in/url/m03o
   https://www.rcesecurity.com/feed.xml:
     latest_id: https://www.rcesecurity.com/2022/04/AWAE-Course-and-OSWE-Exam-Review
   https://www.zerodayinitiative.com/blog/?format=rss:

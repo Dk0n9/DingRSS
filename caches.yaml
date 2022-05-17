@@ -4,7 +4,7 @@ cache:
   http://rss.ricterz.me/hacktivity:
     latest_id: https://hackerone.com/reports/1505567
   https://3gstudent.github.io/atom.xml:
-    latest_id: https://3gstudent.github.io/Windows-Communication-Foundation%E5%BC%80%E5%8F%91%E6%8C%87%E5%8D%972-%E7%A6%81%E7%94%A8%E5%85%83%E6%95%B0%E6%8D%AE%E5%8F%91%E5%B8%83
+    latest_id: https://3gstudent.github.io/%E6%B8%97%E9%80%8F%E5%9F%BA%E7%A1%80-WMIC%E7%9A%84%E4%BD%BF%E7%94%A8
   https://blog.badsectorlabs.com/feeds/all.atom.xml:
     latest_id: tag:blog.badsectorlabs.com,2022-05-02:/last-week-in-security-lwis-2022-05-02.html
   https://blog.gentilkiwi.com/feed:

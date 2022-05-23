@@ -54,7 +54,7 @@ cache:
   https://rsshub.app/project-zero-issues:
     latest_id: https://bugs.chromium.org/p/project-zero/issues/detail?id=2276
   https://rsshub.app/security/pulses:
-    latest_id: https://sec.today/pulses/098f98ca-1b57-4e5c-baac-3fcf71589494/
+    latest_id: https://sec.today/pulses/f564eda6-1a3e-4e62-8703-836cf2fa390c/
   https://s3cur3th1ssh1t.github.io/feed.xml:
     latest_id: https://s3cur3th1ssh1t.github.io/Covenant_Stageless_HTTP
   https://syst3mfailure.io/feed.xml:

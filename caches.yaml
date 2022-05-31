@@ -2,7 +2,7 @@ cache:
   Placeholder:
     latest_id: this is placeholder
   http://rss.ricterz.me/hacktivity:
-    latest_id: https://hackerone.com/reports/1189885
+    latest_id: https://hackerone.com/reports/1153138
   https://3gstudent.github.io/atom.xml:
     latest_id: https://3gstudent.github.io/%E6%B8%97%E9%80%8F%E5%9F%BA%E7%A1%80-WMIC%E7%9A%84%E4%BD%BF%E7%94%A8
   https://blog.badsectorlabs.com/feeds/all.atom.xml:
@@ -54,7 +54,7 @@ cache:
   https://rsshub.app/project-zero-issues:
     latest_id: https://bugs.chromium.org/p/project-zero/issues/detail?id=2276
   https://rsshub.app/security/pulses:
-    latest_id: https://sec.today/pulses/5161f6e5-0e1f-465e-96ad-cd25aeb749b4/
+    latest_id: https://sec.today/pulses/49ae1147-5944-4b5d-ba78-950945aa8562/
   https://s3cur3th1ssh1t.github.io/feed.xml:
     latest_id: https://s3cur3th1ssh1t.github.io/Covenant_Stageless_HTTP
   https://syst3mfailure.io/feed.xml:

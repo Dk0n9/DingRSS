@@ -2,7 +2,7 @@ cache:
   Placeholder:
     latest_id: this is placeholder
   http://rss.ricterz.me/hacktivity:
-    latest_id: https://hackerone.com/reports/1468010
+    latest_id: https://hackerone.com/reports/1238017
   https://3gstudent.github.io/atom.xml:
     latest_id: https://3gstudent.github.io/%E6%B8%97%E9%80%8F%E5%9F%BA%E7%A1%80-WMIC%E7%9A%84%E4%BD%BF%E7%94%A8
   https://blog.badsectorlabs.com/feeds/all.atom.xml:
@@ -43,6 +43,8 @@ cache:
     latest_id: tag:github.com,2008:PushEvent/21941800517
   https://googleprojectzero.blogspot.com/feeds/posts/default:
     latest_id: tag:blogger.com,1999:blog-4838136820032157985.post-6171588576768270104
+  https://itm4n.github.io/feed.xml:
+    latest_id: https://itm4n.github.io/credential-guard-bypass
   https://niemand.com.ar/feed/:
     latest_id: https://niemand.com.ar/?p=1386
   https://pentestlab.blog/feed/atom/:
@@ -57,6 +59,8 @@ cache:
     latest_id: https://sec.today/pulses/61e231b7-47d3-4b4f-a05d-9cdcab6200bb/
   https://s3cur3th1ssh1t.github.io/feed.xml:
     latest_id: https://s3cur3th1ssh1t.github.io/Covenant_Stageless_HTTP
+  https://secret.club/feed.xml:
+    latest_id: https://secret.club/2022/05/11/fuzzing-solana-2
   https://syst3mfailure.io/feed.xml:
     latest_id: https://syst3mfailure.io/sixpack-slab-out-of-bounds
   https://wiki.ioin.in/atom:
@@ -67,7 +71,3 @@ cache:
     latest_id: 5894c269e4fcb5e65a1ed623:58a5b38cb3db2bd67b608658:62758d623be34610e630d2b1
   https://xlab.tencent.com/cn/feed/:
     latest_id: https://xlab.tencent.com/cn/2021/06/21/xlab-21-001/
-  https://secret.club/feed.xml:
-    latest_id: https://secret.club/2022/05/11/fuzzing-solana-2
-  https://itm4n.github.io/feed.xml:
-    latest_id: https://itm4n.github.io/credential-guard-bypass

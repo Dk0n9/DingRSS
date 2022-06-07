@@ -6,7 +6,7 @@ cache:
   https://3gstudent.github.io/atom.xml:
     latest_id: https://3gstudent.github.io/VMware-Workspace-ONE-Access%E6%BC%8F%E6%B4%9E%E8%B0%83%E8%AF%95%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA
   https://blog.badsectorlabs.com/feeds/all.atom.xml:
-    latest_id: tag:blog.badsectorlabs.com,2022-05-31:/last-week-in-security-lwis-2022-05-31.html
+    latest_id: tag:blog.badsectorlabs.com,2022-06-06:/last-week-in-security-lwis-2022-06-06.html
   https://blog.gentilkiwi.com/feed:
     latest_id: http://blog.gentilkiwi.com/?p=3321
   https://blog.redxorblue.com/atom.xml:
@@ -56,7 +56,7 @@ cache:
   https://rsshub.app/project-zero-issues:
     latest_id: https://bugs.chromium.org/p/project-zero/issues/detail?id=2276
   https://rsshub.app/security/pulses:
-    latest_id: https://sec.today/pulses/25933990-6df2-453c-a458-1b11a0ecac53/
+    latest_id: https://sec.today/pulses/5e0f6af8-5cae-4acb-86bb-77b4ace8e8e6/
   https://s3cur3th1ssh1t.github.io/feed.xml:
     latest_id: https://s3cur3th1ssh1t.github.io/Covenant_Stageless_HTTP
   https://secret.club/feed.xml:
@@ -64,7 +64,7 @@ cache:
   https://syst3mfailure.io/feed.xml:
     latest_id: https://syst3mfailure.io/sixpack-slab-out-of-bounds
   https://wiki.ioin.in/atom:
-    latest_id: https://wiki.ioin.in/url/ak46
+    latest_id: https://wiki.ioin.in/url/3JmG
   https://www.rcesecurity.com/feed.xml:
     latest_id: https://www.rcesecurity.com/2022/04/AWAE-Course-and-OSWE-Exam-Review
   https://www.zerodayinitiative.com/blog/?format=rss:

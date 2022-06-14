@@ -42,7 +42,7 @@ cache:
   https://github.com/plackyhacker.atom:
     latest_id: tag:github.com,2008:PushEvent/22195933111
   https://googleprojectzero.blogspot.com/feeds/posts/default:
-    latest_id: tag:blogger.com,1999:blog-4838136820032157985.post-6171588576768270104
+    latest_id: tag:blogger.com,1999:blog-4838136820032157985.post-2485989426162409270
   https://itm4n.github.io/feed.xml:
     latest_id: https://itm4n.github.io/credential-guard-bypass
   https://niemand.com.ar/feed/:
@@ -56,7 +56,7 @@ cache:
   https://rsshub.app/project-zero-issues:
     latest_id: https://bugs.chromium.org/p/project-zero/issues/detail?id=2285
   https://rsshub.app/security/pulses:
-    latest_id: https://sec.today/pulses/ba0d26c1-75d0-4246-b126-f6a226b8a0c2/
+    latest_id: https://sec.today/pulses/060a6782-da68-4a52-9097-ff70b2ca1656/
   https://s3cur3th1ssh1t.github.io/feed.xml:
     latest_id: https://s3cur3th1ssh1t.github.io/Covenant_Stageless_HTTP
   https://secret.club/feed.xml:
@@ -64,7 +64,7 @@ cache:
   https://syst3mfailure.io/feed.xml:
     latest_id: https://syst3mfailure.io/sixpack-slab-out-of-bounds
   https://wiki.ioin.in/atom:
-    latest_id: https://wiki.ioin.in/url/bkEq
+    latest_id: https://wiki.ioin.in/url/YDB0
   https://www.rcesecurity.com/feed.xml:
     latest_id: https://www.rcesecurity.com/2022/04/AWAE-Course-and-OSWE-Exam-Review
   https://www.zerodayinitiative.com/blog/?format=rss:

@@ -2,7 +2,7 @@ cache:
   Placeholder:
     latest_id: this is placeholder
   http://rss.ricterz.me/hacktivity:
-    latest_id: https://hackerone.com/reports/1480569
+    latest_id: https://hackerone.com/reports/1572120
   https://3gstudent.github.io/atom.xml:
     latest_id: https://3gstudent.github.io/VMware-Workspace-ONE-Access%E6%BC%8F%E6%B4%9E%E8%B0%83%E8%AF%95%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA
   https://blog.badsectorlabs.com/feeds/all.atom.xml:
@@ -38,7 +38,7 @@ cache:
   https://gist.github.com/xpn.atom:
     latest_id: tag:gist.github.com,2008:Gist/xpn/8486cea3e3f7d41c8a6db6d0baa5960a
   https://github.com/Mr-Un1k0d3r.atom:
-    latest_id: tag:github.com,2008:PushEvent/22275140244
+    latest_id: tag:github.com,2008:PullRequestEvent/22379072609
   https://github.com/plackyhacker.atom:
     latest_id: tag:github.com,2008:PushEvent/22195933111
   https://googleprojectzero.blogspot.com/feeds/posts/default:

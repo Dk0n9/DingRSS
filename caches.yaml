@@ -6,7 +6,7 @@ cache:
   https://3gstudent.github.io/atom.xml:
     latest_id: https://3gstudent.github.io/VMware-Workspace-ONE-Access%E6%BC%8F%E6%B4%9E%E8%B0%83%E8%AF%95%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA
   https://blog.badsectorlabs.com/feeds/all.atom.xml:
-    latest_id: tag:blog.badsectorlabs.com,2022-06-14:/last-week-in-security-lwis-2022-06-14.html
+    latest_id: tag:blog.badsectorlabs.com,2022-06-20:/last-week-in-security-lwis-2022-06-20.html
   https://blog.gentilkiwi.com/feed:
     latest_id: http://blog.gentilkiwi.com/?p=3321
   https://blog.redxorblue.com/atom.xml:
@@ -56,7 +56,7 @@ cache:
   https://rsshub.app/project-zero-issues:
     latest_id: https://bugs.chromium.org/p/project-zero/issues/detail?id=2285
   https://rsshub.app/security/pulses:
-    latest_id: https://sec.today/pulses/f4b5d689-2e48-43b5-ba77-d0124d7fe954/
+    latest_id: https://sec.today/pulses/31beb2d0-4ae9-400e-af3a-87f85d3fb8d5/
   https://s3cur3th1ssh1t.github.io/feed.xml:
     latest_id: https://s3cur3th1ssh1t.github.io/Covenant_Stageless_HTTP
   https://secret.club/feed.xml:

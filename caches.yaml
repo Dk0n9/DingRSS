@@ -42,7 +42,7 @@ cache:
   https://github.com/plackyhacker.atom:
     latest_id: tag:github.com,2008:PushEvent/22195933111
   https://googleprojectzero.blogspot.com/feeds/posts/default:
-    latest_id: tag:blogger.com,1999:blog-4838136820032157985.post-2485989426162409270
+    latest_id: tag:blogger.com,1999:blog-4838136820032157985.post-5973748726134682294
   https://itm4n.github.io/feed.xml:
     latest_id: https://itm4n.github.io/credential-guard-bypass
   https://niemand.com.ar/feed/:
@@ -56,7 +56,7 @@ cache:
   https://rsshub.app/project-zero-issues:
     latest_id: https://bugs.chromium.org/p/project-zero/issues/detail?id=2285
   https://rsshub.app/security/pulses:
-    latest_id: https://sec.today/pulses/dc1a0610-c9fd-46e7-9c95-c3d4551b50c5/
+    latest_id: https://sec.today/pulses/e0317e56-ef5f-4af8-adcd-a527735b8828/
   https://s3cur3th1ssh1t.github.io/feed.xml:
     latest_id: https://s3cur3th1ssh1t.github.io/Covenant_Stageless_HTTP
   https://secret.club/feed.xml:

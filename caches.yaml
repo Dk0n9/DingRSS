@@ -6,7 +6,7 @@ cache:
   https://3gstudent.github.io/atom.xml:
     latest_id: https://3gstudent.github.io/VMware-Workspace-ONE-Access%E6%BC%8F%E6%B4%9E%E8%B0%83%E8%AF%95%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA
   https://blog.badsectorlabs.com/feeds/all.atom.xml:
-    latest_id: tag:blog.badsectorlabs.com,2022-06-20:/last-week-in-security-lwis-2022-06-20.html
+    latest_id: tag:blog.badsectorlabs.com,2022-06-27:/last-week-in-security-lwis-2022-06-27.html
   https://blog.gentilkiwi.com/feed:
     latest_id: http://blog.gentilkiwi.com/?p=3321
   https://blog.redxorblue.com/atom.xml:

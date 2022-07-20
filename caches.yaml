@@ -2,7 +2,7 @@ cache:
   Placeholder:
     latest_id: this is placeholder
   http://rss.ricterz.me/hacktivity:
-    latest_id: https://hackerone.com/reports/1600720
+    latest_id: https://hackerone.com/reports/1641661
   https://3gstudent.github.io/atom.xml:
     latest_id: https://3gstudent.github.io/vRealize-Operations-Manager%E6%BC%8F%E6%B4%9E%E8%B0%83%E8%AF%95%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA
   https://blog.badsectorlabs.com/feeds/all.atom.xml:
@@ -54,7 +54,7 @@ cache:
   https://rss.app/feeds/rX5by85Q0daaYb6v.xml:
     latest_id: 035b6da529fc89fd61f98c5d5cc1af8d
   https://rsshub.app/project-zero-issues:
-    latest_id: https://bugs.chromium.org/p/project-zero/issues/detail?id=2294
+    latest_id: https://bugs.chromium.org/p/project-zero/issues/detail?id=2296
   https://rsshub.app/security/pulses:
     latest_id: https://sec.today/pulses/3a65553e-7670-4063-bb44-921e9e21377f/
   https://s3cur3th1ssh1t.github.io/feed.xml:

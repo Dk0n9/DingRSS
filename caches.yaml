@@ -66,7 +66,7 @@ cache:
   https://wiki.ioin.in/atom:
     latest_id: https://wiki.ioin.in/url/DA92
   https://www.rcesecurity.com/feed.xml:
-    latest_id: https://www.rcesecurity.com/2022/04/AWAE-Course-and-OSWE-Exam-Review
+    latest_id: https://www.rcesecurity.com/2022/07/WordPress-Transposh-Exploiting-a-Blind-SQL-Injection-Using-XSS
   https://www.zerodayinitiative.com/blog/?format=rss:
     latest_id: 5894c269e4fcb5e65a1ed623:58a5b38cb3db2bd67b608658:62c5e40cff5ee026bef5b5fd
   https://xlab.tencent.com/cn/feed/:

@@ -2,7 +2,7 @@ cache:
   Placeholder:
     latest_id: this is placeholder
   http://rss.ricterz.me/hacktivity:
-    latest_id: https://hackerone.com/reports/1658418
+    latest_id: https://hackerone.com/reports/1635321
   https://3gstudent.github.io/atom.xml:
     latest_id: https://3gstudent.github.io/%E6%B8%97%E9%80%8F%E5%9F%BA%E7%A1%80-%E8%8E%B7%E5%BE%97%E5%9F%9F%E7%94%A8%E6%88%B7%E7%9A%84%E7%99%BB%E5%BD%95%E4%BF%A1%E6%81%AF
   https://blog.badsectorlabs.com/feeds/all.atom.xml:

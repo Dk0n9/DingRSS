@@ -2,7 +2,7 @@ cache:
   Placeholder:
     latest_id: this is placeholder
   http://rss.ricterz.me/hacktivity:
-    latest_id: https://hackerone.com/reports/1622867
+    latest_id: https://hackerone.com/reports/1639802
   https://3gstudent.github.io/atom.xml:
     latest_id: https://3gstudent.github.io/%E6%B8%97%E9%80%8F%E5%9F%BA%E7%A1%80-%E8%8E%B7%E5%BE%97%E5%9F%9F%E7%94%A8%E6%88%B7%E7%9A%84%E7%99%BB%E5%BD%95%E4%BF%A1%E6%81%AF
   https://blog.badsectorlabs.com/feeds/all.atom.xml:
@@ -40,7 +40,7 @@ cache:
   https://github.com/Mr-Un1k0d3r.atom:
     latest_id: tag:github.com,2008:IssueCommentEvent/22757047067
   https://github.com/plackyhacker.atom:
-    latest_id: tag:github.com,2008:PushEvent/23342958796
+    latest_id: tag:github.com,2008:PushEvent/23347447498
   https://googleprojectzero.blogspot.com/feeds/posts/default:
     latest_id: tag:blogger.com,1999:blog-4838136820032157985.post-256978548158816980
   https://itm4n.github.io/feed.xml:
@@ -60,7 +60,7 @@ cache:
   https://s3cur3th1ssh1t.github.io/feed.xml:
     latest_id: https://s3cur3th1ssh1t.github.io/Covenant_Stageless_HTTP
   https://secret.club/feed.xml:
-    latest_id: https://secret.club/2022/05/11/fuzzing-solana-2
+    latest_id: https://secret.club/2022/08/08/eqsat-oracle-synthesis
   https://syst3mfailure.io/feed.xml:
     latest_id: https://syst3mfailure.io/sixpack-slab-out-of-bounds
   https://wiki.ioin.in/atom:

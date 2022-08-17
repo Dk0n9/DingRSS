@@ -62,7 +62,7 @@ cache:
   https://secret.club/feed.xml:
     latest_id: https://secret.club/2022/08/08/eqsat-oracle-synthesis
   https://syst3mfailure.io/feed.xml:
-    latest_id: https://syst3mfailure.io/sixpack-slab-out-of-bounds
+    latest_id: https://syst3mfailure.io/corjail
   https://wiki.ioin.in/atom:
     latest_id: https://wiki.ioin.in/url/gdX3
   https://www.rcesecurity.com/feed.xml:

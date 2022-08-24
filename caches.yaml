@@ -54,7 +54,7 @@ cache:
   https://rss.app/feeds/rX5by85Q0daaYb6v.xml:
     latest_id: 035b6da529fc89fd61f98c5d5cc1af8d
   https://rsshub.app/project-zero-issues:
-    latest_id: https://bugs.chromium.org/p/project-zero/issues/detail?id=2321
+    latest_id: https://bugs.chromium.org/p/project-zero/issues/detail?id=2325
   https://rsshub.app/security/pulses:
     latest_id: https://sec.today/pulses/b6ec0216-8ef1-47a6-8eba-7076cc745e1c/
   https://s3cur3th1ssh1t.github.io/feed.xml:

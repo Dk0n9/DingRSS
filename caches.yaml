@@ -2,7 +2,7 @@ cache:
   Placeholder:
     latest_id: this is placeholder
   http://rss.ricterz.me/hacktivity:
-    latest_id: https://hackerone.com/reports/1538669
+    latest_id: https://hackerone.com/reports/1033253
   https://3gstudent.github.io/atom.xml:
     latest_id: https://3gstudent.github.io/%E6%B8%97%E9%80%8F%E5%9F%BA%E7%A1%80-%E8%8E%B7%E5%BE%97%E5%9F%9F%E7%94%A8%E6%88%B7%E7%9A%84%E7%99%BB%E5%BD%95%E4%BF%A1%E6%81%AF
   https://blog.badsectorlabs.com/feeds/all.atom.xml:
@@ -30,7 +30,7 @@ cache:
   https://gist.github.com/coldfusion39.atom:
     latest_id: tag:gist.github.com,2008:Gist/coldfusion39/b5a4deed7bda286dfdc5b37d5f9b4b32
   https://gist.github.com/monoxgas.atom:
-    latest_id: tag:gist.github.com,2008:Gist/monoxgas/c0b0f086fc7aa057a8256b42c66761c8
+    latest_id: tag:gist.github.com,2008:Gist/monoxgas/96a29562821978992b07e236379e07ab
   https://gist.github.com/nullbind.atom:
     latest_id: tag:gist.github.com,2008:Gist/nullbind/2dbd2b2a66bbc5b208a081982f859a6e
   https://gist.github.com/ujin5.atom:

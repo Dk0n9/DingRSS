@@ -20,7 +20,7 @@ cache:
   https://exploit.ph/feeds/all.atom.xml:
     latest_id: tag:exploit.ph,2022-05-09:/defending-the-three-headed-relay.html
   https://gist.github.com/CCob.atom:
-    latest_id: tag:gist.github.com,2008:Gist/CCob/fe3b63d80890fafeca982f76c8a3efdf
+    latest_id: tag:gist.github.com,2008:Gist/CCob/eb9df3a4a3581eb6d971ef9f89a297b7
   https://gist.github.com/HarmJ0y.atom:
     latest_id: tag:gist.github.com,2008:Gist/HarmJ0y/c5cf17def719d3b6406a89504ec518c4
   https://gist.github.com/S3cur3Th1sSh1t.atom:

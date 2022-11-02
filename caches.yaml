@@ -42,7 +42,7 @@ cache:
   https://github.com/plackyhacker.atom:
     latest_id: tag:github.com,2008:PushEvent/24967342377
   https://googleprojectzero.blogspot.com/feeds/posts/default:
-    latest_id: tag:blogger.com,1999:blog-4838136820032157985.post-8303427457754488503
+    latest_id: tag:blogger.com,1999:blog-4838136820032157985.post-8124034966884170870
   https://itm4n.github.io/feed.xml:
     latest_id: https://itm4n.github.io/the-end-of-ppldump/
   https://niemand.com.ar/feed/:
@@ -64,7 +64,7 @@ cache:
   https://syst3mfailure.io/feed.xml:
     latest_id: https://syst3mfailure.io/corjail
   https://wiki.ioin.in/atom:
-    latest_id: https://govuln.com/news/url/vnmM
+    latest_id: https://govuln.com/news/url/dNkx
   https://www.rcesecurity.com/feed.xml:
     latest_id: https://www.rcesecurity.com/2022/07/WordPress-Transposh-Exploiting-a-Blind-SQL-Injection-via-XSS
   https://www.zerodayinitiative.com/blog/?format=rss:

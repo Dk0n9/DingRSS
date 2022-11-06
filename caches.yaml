@@ -58,7 +58,7 @@ cache:
   https://rsshub.app/security/pulses:
     latest_id: https://sec.today/pulses/b6ec0216-8ef1-47a6-8eba-7076cc745e1c/
   https://s3cur3th1ssh1t.github.io/feed.xml:
-    latest_id: https://s3cur3th1ssh1t.github.io/Signature_vs_Behaviour
+    latest_id: https://s3cur3th1ssh1t.github.io/SystemFunction032_Shellcode
   https://secret.club/feed.xml:
     latest_id: https://secret.club/2022/08/29/bootkitting-windows-sandbox
   https://syst3mfailure.io/feed.xml:

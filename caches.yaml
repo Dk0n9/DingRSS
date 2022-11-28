@@ -4,7 +4,7 @@ cache:
   http://rss.ricterz.me/hacktivity:
     latest_id: https://hackerone.com/reports/1581499
   https://3gstudent.github.io/atom.xml:
-    latest_id: https://3gstudent.github.io/Sophos-XG%E6%BC%8F%E6%B4%9E%E8%B0%83%E8%AF%95%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA
+    latest_id: https://3gstudent.github.io/Zimbra-SOAP-API%E5%BC%80%E5%8F%91%E6%8C%87%E5%8D%974-%E9%82%AE%E4%BB%B6%E5%AF%BC%E5%87%BA%E5%92%8C%E6%96%87%E4%BB%B6%E5%A4%B9%E5%85%B1%E4%BA%AB
   https://blog.badsectorlabs.com/feeds/all.atom.xml:
     latest_id: tag:blog.badsectorlabs.com,2022-11-14:/last-week-in-security-lwis-2022-11-14.html
   https://blog.gentilkiwi.com/feed:

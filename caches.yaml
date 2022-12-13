@@ -2,11 +2,11 @@ cache:
   Placeholder:
     latest_id: this is placeholder
   http://rss.ricterz.me/hacktivity:
-    latest_id: https://hackerone.com/reports/1581499
+    latest_id: https://hackerone.com/reports/1726445
   https://3gstudent.github.io/atom.xml:
     latest_id: https://3gstudent.github.io/Zimbra-SOAP-API%E5%BC%80%E5%8F%91%E6%8C%87%E5%8D%974-%E9%82%AE%E4%BB%B6%E5%AF%BC%E5%87%BA%E5%92%8C%E6%96%87%E4%BB%B6%E5%A4%B9%E5%85%B1%E4%BA%AB
   https://blog.badsectorlabs.com/feeds/all.atom.xml:
-    latest_id: tag:blog.badsectorlabs.com,2022-11-28:/last-week-in-security-lwis-2022-11-28.html
+    latest_id: tag:blog.badsectorlabs.com,2022-12-12:/last-week-in-security-lwis-2022-12-12.html
   https://blog.gentilkiwi.com/feed:
     latest_id: http://blog.gentilkiwi.com/?p=3321
   https://blog.redxorblue.com/atom.xml:
@@ -42,9 +42,9 @@ cache:
   https://github.com/plackyhacker.atom:
     latest_id: tag:github.com,2008:PushEvent/25610560800
   https://googleprojectzero.blogspot.com/feeds/posts/default:
-    latest_id: tag:blogger.com,1999:blog-4838136820032157985.post-7519748497805371118
+    latest_id: tag:blogger.com,1999:blog-4838136820032157985.post-2515628030502752973
   https://itm4n.github.io/feed.xml:
-    latest_id: https://itm4n.github.io/the-end-of-ppldump/
+    latest_id: https://itm4n.github.io/debugging-protected-processes/
   https://niemand.com.ar/feed/:
     latest_id: https://niemand.com.ar/?p=1386
   https://pentestlab.blog/feed/atom/:
@@ -64,10 +64,10 @@ cache:
   https://syst3mfailure.io/feed.xml:
     latest_id: https://syst3mfailure.io/corjail
   https://wiki.ioin.in/atom:
-    latest_id: https://govuln.com/news/url/B64d
+    latest_id: https://govuln.com/news/url/lE94
   https://www.rcesecurity.com/feed.xml:
     latest_id: https://www.rcesecurity.com/2022/07/WordPress-Transposh-Exploiting-a-Blind-SQL-Injection-via-XSS
   https://www.zerodayinitiative.com/blog/?format=rss:
-    latest_id: 5894c269e4fcb5e65a1ed623:58a5b38cb3db2bd67b608658:6387cc73a344c24acf985796
+    latest_id: 5894c269e4fcb5e65a1ed623:58a5b38cb3db2bd67b608658:6393431bf58e7c7847955e4a
   https://xlab.tencent.com/cn/feed/:
     latest_id: https://xlab.tencent.com/cn/2021/06/21/xlab-21-001/

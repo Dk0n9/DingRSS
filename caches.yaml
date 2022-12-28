@@ -2,7 +2,7 @@ cache:
   Placeholder:
     latest_id: this is placeholder
   http://rss.ricterz.me/hacktivity:
-    latest_id: https://hackerone.com/reports/1773895
+    latest_id: https://hackerone.com/reports/1784999
   https://3gstudent.github.io/atom.xml:
     latest_id: https://3gstudent.github.io/Zimbra-SOAP-API%E5%BC%80%E5%8F%91%E6%8C%87%E5%8D%974-%E9%82%AE%E4%BB%B6%E5%AF%BC%E5%87%BA%E5%92%8C%E6%96%87%E4%BB%B6%E5%A4%B9%E5%85%B1%E4%BA%AB
   https://blog.badsectorlabs.com/feeds/all.atom.xml:

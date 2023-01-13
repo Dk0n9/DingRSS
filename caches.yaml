@@ -71,3 +71,9 @@ cache:
     latest_id: 5894c269e4fcb5e65a1ed623:58a5b38cb3db2bd67b608658:63bf1e75dbbc35368c081d37
   https://xlab.tencent.com/cn/feed/:
     latest_id: https://xlab.tencent.com/cn/2021/06/21/xlab-21-001/
+  https://wechat2rss.xlab.app/feed/923c0e2f33b6d39c8a826a90f185725f0edb10e8.xml:
+    latest_id: https://mp.weixin.qq.com/s?__biz=MzA5NDYyNDI0MA==&mid=2651958838&idx=1&sn=c8f35c1839568b1906ea392cc3d2cc08&chksm=8baecea9bcd947bf895ce171fc34c6e212dcbc3ff94f790e7190f45bcb17f4911315a89494d4&scene=58&subscene=0#rd
+  https://wechat2rss.xlab.app/feed/947b46dba9754e10360d267a5ee9a87597e0bafe.xml:
+    latest_id: https://mp.weixin.qq.com/s?__biz=MzI2MjQ1NTA4MA==&mid=2247489309&idx=1&sn=f43c81f0002fcb4364631a3bdb6325df&chksm=ea4bbd5add3c344cb9c339998eaecc84c39c39f38a930958c93fd1d0e8e5c4973203f8316f2f&scene=58&subscene=0#rd
+  https://wechat2rss.xlab.app/feed/059ae07ca76f11c6e9f9fad7698ab205b3b039c8.xml:
+    latest_id: https://mp.weixin.qq.com/s?__biz=MzkyMTI0NjA3OA==&mid=2247490566&idx=1&sn=6383417d423b1c8cad3048772cd34758&chksm=c187dc17f6f05501b3fb7d4d9c8f29b7c3e5495bb87aaf7a73b9fad74f9013c24b9de2fac598&scene=58&subscene=0#rd

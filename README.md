@@ -42,6 +42,9 @@
 - [LOLBAS Pull requests](https://github.com/LOLBAS-Project/LOLBAS/pulls)
 - [SECRET CLUB](https://secret.club/)
 - [itm4n's blog](https://itm4n.github.io/)
+- 腾讯玄武实验室官方微信公众号
+- 君哥的体历微信公众号
+- M01NTeam微信公众号
 
 ## Contributing
 

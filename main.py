@@ -49,7 +49,7 @@ class RSSBot(object):
         try:
             feed = feedparser.parse(url)
             feedCache = self._caches["cache"].get(url, None)
-            latestID = str(feed.entries[0]["id"])
+            latestID = str(feed.entries[0].get("id"))
             if not latestID:
                 latestID = str(feed.entries[0]["link"])
             cache = {

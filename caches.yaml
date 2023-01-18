@@ -38,7 +38,7 @@ cache:
   https://gist.github.com/xpn.atom:
     latest_id: tag:gist.github.com,2008:Gist/xpn/5f497d2725a041922c427c3aaa3b37d1
   https://github.com/Mr-Un1k0d3r.atom:
-    latest_id: tag:github.com,2008:PushEvent/25184941669
+    latest_id: tag:github.com,2008:IssueCommentEvent/26507555302
   https://github.com/plackyhacker.atom:
     latest_id: tag:github.com,2008:PushEvent/25610560800
   https://googleprojectzero.blogspot.com/feeds/posts/default:

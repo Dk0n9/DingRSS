@@ -2,7 +2,7 @@ cache:
   Placeholder:
     latest_id: this is placeholder
   http://rss.ricterz.me/hacktivity:
-    latest_id: https://hackerone.com/reports/1736327
+    latest_id: https://hackerone.com/reports/1667998
   https://3gstudent.github.io/atom.xml:
     latest_id: https://3gstudent.github.io/Password-Manager-Pro%E5%88%A9%E7%94%A8%E5%88%86%E6%9E%90-%E6%95%B0%E6%8D%AE%E8%A7%A3%E5%AF%86
   https://blog.badsectorlabs.com/feeds/all.atom.xml:
@@ -42,7 +42,7 @@ cache:
   https://github.com/plackyhacker.atom:
     latest_id: tag:github.com,2008:PushEvent/25610560800
   https://googleprojectzero.blogspot.com/feeds/posts/default:
-    latest_id: tag:blogger.com,1999:blog-4838136820032157985.post-3562308922263769538
+    latest_id: tag:blogger.com,1999:blog-4838136820032157985.post-6288849578901159797
   https://itm4n.github.io/feed.xml:
     latest_id: https://itm4n.github.io/debugging-protected-processes/
   https://niemand.com.ar/feed/:
@@ -72,6 +72,6 @@ cache:
   https://www.rcesecurity.com/feed/:
     latest_id: https://www.rcesecurity.com/?p=1314
   https://www.zerodayinitiative.com/blog/?format=rss:
-    latest_id: 5894c269e4fcb5e65a1ed623:58a5b38cb3db2bd67b608658:63bf1e75dbbc35368c081d37
+    latest_id: 5894c269e4fcb5e65a1ed623:58a5b38cb3db2bd67b608658:63c873a78ec28c353417c563
   https://xlab.tencent.com/cn/feed/:
     latest_id: https://xlab.tencent.com/cn/2021/06/21/xlab-21-001/

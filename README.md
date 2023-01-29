@@ -44,6 +44,7 @@
 - 腾讯玄武实验室官方微信公众号
 - 君哥的体历微信公众号
 - M01NTeam微信公众号
+- [Microsoft Security Blog](https://www.microsoft.com/en-us/security/blog/)
 
 ## Contributing
 

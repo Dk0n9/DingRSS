@@ -69,11 +69,11 @@ cache:
     latest_id: https://mp.weixin.qq.com/s?__biz=MzI2MjQ1NTA4MA==&mid=2247489309&idx=1&sn=f43c81f0002fcb4364631a3bdb6325df&chksm=ea4bbd5add3c344cb9c339998eaecc84c39c39f38a930958c93fd1d0e8e5c4973203f8316f2f&scene=58&subscene=0#rd
   https://wiki.ioin.in/atom:
     latest_id: https://govuln.com/news/url/jdYb
+  https://www.microsoft.com/en-us/security/blog/feed/:
+    latest_id: https://www.microsoft.com/en-us/security/blog/?p=125414
   https://www.rcesecurity.com/feed/:
     latest_id: https://www.rcesecurity.com/?p=1314
   https://www.zerodayinitiative.com/blog/?format=rss:
     latest_id: 5894c269e4fcb5e65a1ed623:58a5b38cb3db2bd67b608658:63d0798d3ab8241a1eb0a6e9
   https://xlab.tencent.com/cn/feed/:
     latest_id: https://xlab.tencent.com/cn/2021/06/21/xlab-21-001/
-  https://www.microsoft.com/en-us/security/blog/feed/:
-    latest_id: https://www.microsoft.com/en-us/security/blog/2023/01/25/microsoft-security-reaches-another-milestone-comprehensive-customer-centric-solutions-drive-results/

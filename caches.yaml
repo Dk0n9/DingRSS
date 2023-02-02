@@ -70,7 +70,7 @@ cache:
   https://wiki.ioin.in/atom:
     latest_id: https://govuln.com/news/url/XrWd
   https://www.microsoft.com/en-us/security/blog/feed/:
-    latest_id: https://www.microsoft.com/en-us/security/blog/?p=125414
+    latest_id: https://www.microsoft.com/en-us/security/blog/?p=125725
   https://www.rcesecurity.com/feed/:
     latest_id: https://www.rcesecurity.com/?p=1314
   https://www.zerodayinitiative.com/blog/?format=rss:

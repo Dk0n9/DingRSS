@@ -2,11 +2,13 @@ cache:
   Placeholder:
     latest_id: this is placeholder
   http://rss.ricterz.me/hacktivity:
-    latest_id: https://hackerone.com/reports/1860905
+    latest_id: https://hackerone.com/reports/1015373
   https://3gstudent.github.io/atom.xml:
     latest_id: https://3gstudent.github.io/%E6%B8%97%E9%80%8F%E6%8A%80%E5%B7%A7-%E9%80%9A%E8%BF%87WSUS%E8%BF%9B%E8%A1%8C%E6%A8%AA%E5%90%91%E7%A7%BB%E5%8A%A8
   https://blog.badsectorlabs.com/feeds/all.atom.xml:
     latest_id: tag:blog.badsectorlabs.com,2023-02-06:/last-week-in-security-lwis-2023-02-06.html
+  https://blog.doyensec.com/atom.xml:
+    latest_id: https://blog.doyensec.com//2023/01/24/tampering-unrestricted-user-attributes-aws-cognito
   https://blog.gentilkiwi.com/feed:
     latest_id: http://blog.gentilkiwi.com/?p=3321
   https://blog.redxorblue.com/atom.xml:
@@ -75,5 +77,3 @@ cache:
     latest_id: 5894c269e4fcb5e65a1ed623:58a5b38cb3db2bd67b608658:63e12991399ae276125218e5
   https://xlab.tencent.com/cn/feed/:
     latest_id: https://xlab.tencent.com/cn/2021/06/21/xlab-21-001/
-  https://blog.doyensec.com/atom.xml:
-    latest_id: https://blog.doyensec.com//2023/01/24/tampering-unrestricted-user-attributes-aws-cognito

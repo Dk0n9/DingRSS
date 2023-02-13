@@ -39,8 +39,6 @@ cache:
     latest_id: tag:gist.github.com,2008:Gist/xpn/5f497d2725a041922c427c3aaa3b37d1
   https://github.com/Mr-Un1k0d3r.atom:
     latest_id: tag:github.com,2008:IssueCommentEvent/26515820026
-  https://github.com/plackyhacker.atom:
-    latest_id: tag:github.com,2008:PushEvent/27035967693
   https://googleprojectzero.blogspot.com/feeds/posts/default:
     latest_id: tag:blogger.com,1999:blog-4838136820032157985.post-6288849578901159797
   https://itm4n.github.io/feed.xml:
@@ -77,3 +75,5 @@ cache:
     latest_id: 5894c269e4fcb5e65a1ed623:58a5b38cb3db2bd67b608658:63e12991399ae276125218e5
   https://xlab.tencent.com/cn/feed/:
     latest_id: https://xlab.tencent.com/cn/2021/06/21/xlab-21-001/
+  https://blog.doyensec.com/atom.xml:
+    latest_id: https://blog.doyensec.com//2023/01/24/tampering-unrestricted-user-attributes-aws-cognito

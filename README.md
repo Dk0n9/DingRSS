@@ -21,7 +21,6 @@
 - [Red XOR Blue](https://blog.redxorblue.com/)
 - [Posts :: Cas van Cooten](https://casvancooten.com/posts/)
 - [S3cur3Th1sSh1t](https://s3cur3th1ssh1t.github.io/)
-- [plackyhacker Github](https://github.com/plackyhacker)
 - [Mr-Un1k0d3r Github](https://github.com/Mr-Un1k0d3r)
 - [eXploit](https://exploit.ph/)
 - [impacket Pull requests](https://github.com/SecureAuthCorp/impacket/pulls)
@@ -45,6 +44,7 @@
 - 君哥的体历微信公众号
 - M01NTeam微信公众号
 - [Microsoft Security Blog](https://www.microsoft.com/en-us/security/blog/)
+- [Doyensec's Blog](https://blog.doyensec.com/)
 
 ## Contributing
 

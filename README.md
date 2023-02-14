@@ -45,6 +45,7 @@
 - M01NTeam微信公众号
 - [Microsoft Security Blog](https://www.microsoft.com/en-us/security/blog/)
 - [Doyensec's Blog](https://blog.doyensec.com/)
+- [Cobalt Strike Blog](https://www.cobaltstrike.com/blog/)
 
 ## Contributing
 

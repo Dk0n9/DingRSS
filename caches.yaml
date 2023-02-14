@@ -61,6 +61,8 @@ cache:
     latest_id: https://secret.club/2022/08/29/bootkitting-windows-sandbox
   https://syst3mfailure.io/feed.xml:
     latest_id: https://syst3mfailure.io/corjail
+  https://the-deniss.github.io/feed.xml:
+    latest_id: https://the-deniss.github.io/posts/2023/02/09/elevation-of-privileges-from-everyone-through-avast-av-sandbox-to-system-amppl
   https://wechat2rss.xlab.app/feed/059ae07ca76f11c6e9f9fad7698ab205b3b039c8.xml:
     latest_id: https://mp.weixin.qq.com/s?__biz=MzkyMTI0NjA3OA==&mid=2247490566&idx=1&sn=6383417d423b1c8cad3048772cd34758&chksm=c187dc17f6f05501b3fb7d4d9c8f29b7c3e5495bb87aaf7a73b9fad74f9013c24b9de2fac598&scene=58&subscene=0#rd
   https://wechat2rss.xlab.app/feed/923c0e2f33b6d39c8a826a90f185725f0edb10e8.xml:
@@ -69,15 +71,13 @@ cache:
     latest_id: https://mp.weixin.qq.com/s?__biz=MzI2MjQ1NTA4MA==&mid=2247489309&idx=1&sn=f43c81f0002fcb4364631a3bdb6325df&chksm=ea4bbd5add3c344cb9c339998eaecc84c39c39f38a930958c93fd1d0e8e5c4973203f8316f2f&scene=58&subscene=0#rd
   https://wiki.ioin.in/atom:
     latest_id: https://govuln.com/news/url/ydPG
+  https://www.cobaltstrike.com/blog/feed/atom/:
+    latest_id: https://www.cobaltstrike.com/?p=11892
   https://www.microsoft.com/en-us/security/blog/feed/:
     latest_id: https://www.microsoft.com/en-us/security/blog/?p=125787
   https://www.rcesecurity.com/feed/:
     latest_id: https://www.rcesecurity.com/?p=1314
   https://www.zerodayinitiative.com/blog/?format=rss:
-    latest_id: 5894c269e4fcb5e65a1ed623:58a5b38cb3db2bd67b608658:63e170290c3cba1d23922bba
+    latest_id: 5894c269e4fcb5e65a1ed623:58a5b38cb3db2bd67b608658:63e2cb3f3fc4dd669e134b36
   https://xlab.tencent.com/cn/feed/:
     latest_id: https://xlab.tencent.com/cn/2021/06/21/xlab-21-001/
-  https://www.cobaltstrike.com/blog/feed/atom/:
-    latest_id: https://www.cobaltstrike.com/?p=11892
-  https://the-deniss.github.io/feed.xml:
-    latest_id: https://the-deniss.github.io/posts/2023/02/09/elevation-of-privileges-from-everyone-through-avast-av-sandbox-to-system-amppl

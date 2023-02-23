@@ -2,9 +2,9 @@ cache:
   Placeholder:
     latest_id: this is placeholder
   http://rss.ricterz.me/hacktivity:
-    latest_id: https://hackerone.com/reports/1842674
+    latest_id: https://hackerone.com/reports/1824342
   https://3gstudent.github.io/atom.xml:
-    latest_id: https://3gstudent.github.io/%E6%B8%97%E9%80%8F%E6%8A%80%E5%B7%A7-%E9%80%9A%E8%BF%87WSUS%E8%BF%9B%E8%A1%8C%E6%A8%AA%E5%90%91%E7%A7%BB%E5%8A%A8
+    latest_id: https://3gstudent.github.io/%E5%9F%9F%E6%B8%97%E9%80%8F-%E5%88%A9%E7%94%A8GPO%E4%B8%AD%E7%9A%84%E8%84%9A%E6%9C%AC%E5%AE%9E%E7%8E%B0%E8%BF%9C%E7%A8%8B%E6%89%A7%E8%A1%8C
   https://blog.badsectorlabs.com/feeds/all.atom.xml:
     latest_id: tag:blog.badsectorlabs.com,2023-02-21:/last-week-in-security-lwis-2023-02-21.html
   https://blog.doyensec.com/atom.xml:

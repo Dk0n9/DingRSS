@@ -74,7 +74,7 @@ cache:
   https://www.cobaltstrike.com/blog/feed/atom/:
     latest_id: https://www.cobaltstrike.com/?p=11892
   https://www.microsoft.com/en-us/security/blog/feed/:
-    latest_id: https://www.microsoft.com/en-us/security/blog/?p=126076
+    latest_id: https://www.microsoft.com/en-us/security/blog/?p=126091
   https://www.rcesecurity.com/feed/:
     latest_id: https://www.rcesecurity.com/?p=1314
   https://www.zerodayinitiative.com/blog/?format=rss:

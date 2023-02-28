@@ -8,7 +8,7 @@ cache:
   https://blog.badsectorlabs.com/feeds/all.atom.xml:
     latest_id: tag:blog.badsectorlabs.com,2023-02-21:/last-week-in-security-lwis-2023-02-21.html
   https://blog.doyensec.com/atom.xml:
-    latest_id: https://blog.doyensec.com//2023/02/14/pesd-extension-public-release
+    latest_id: https://blog.doyensec.com//2023/02/28/new-vector-for-dirty-arbitrary-file-write-2-rce
   https://blog.gentilkiwi.com/feed:
     latest_id: http://blog.gentilkiwi.com/?p=3321
   https://blog.redxorblue.com/atom.xml:

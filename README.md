@@ -47,6 +47,7 @@
 - [Doyensec's Blog](https://blog.doyensec.com/)
 - [Cobalt Strike Blog](https://www.cobaltstrike.com/blog/)
 - [the-deniss.github.io](https://the-deniss.github.io/)
+- [Blog - Praetorian](https://www.praetorian.com/blog/)
 
 ## Contributing
 

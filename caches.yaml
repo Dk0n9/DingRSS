@@ -70,16 +70,16 @@ cache:
   https://wechat2rss.xlab.app/feed/947b46dba9754e10360d267a5ee9a87597e0bafe.xml:
     latest_id: https://mp.weixin.qq.com/s?__biz=MzI2MjQ1NTA4MA==&mid=2247489309&idx=1&sn=f43c81f0002fcb4364631a3bdb6325df&chksm=ea4bbd5add3c344cb9c339998eaecc84c39c39f38a930958c93fd1d0e8e5c4973203f8316f2f&scene=58&subscene=0#rd
   https://wiki.ioin.in/atom:
-    latest_id: https://govuln.com/news/url/WbyY
+    latest_id: https://govuln.com/news/url/DAyK
   https://www.cobaltstrike.com/blog/feed/atom/:
     latest_id: https://www.cobaltstrike.com/?p=11892
   https://www.microsoft.com/en-us/security/blog/feed/:
-    latest_id: https://www.microsoft.com/en-us/security/blog/?p=126126
+    latest_id: https://www.microsoft.com/en-us/security/blog/?p=126238
+  https://www.praetorian.com/blog/feed/atom/:
+    latest_id: https://www.praetorian.com/?p=4443
   https://www.rcesecurity.com/feed/:
     latest_id: https://www.rcesecurity.com/?p=1314
   https://www.zerodayinitiative.com/blog/?format=rss:
     latest_id: 5894c269e4fcb5e65a1ed623:58a5b38cb3db2bd67b608658:63fd16560738d207a91f65c8
   https://xlab.tencent.com/cn/feed/:
     latest_id: https://xlab.tencent.com/cn/2021/06/21/xlab-21-001/
-  https://www.praetorian.com/blog/feed/atom/:
-    latest_id: https://www.praetorian.com/?p=4443

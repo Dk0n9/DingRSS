@@ -60,7 +60,7 @@ cache:
   https://secret.club/feed.xml:
     latest_id: https://secret.club/2022/08/29/bootkitting-windows-sandbox
   https://syst3mfailure.io/feed.xml:
-    latest_id: https://syst3mfailure.io/corjail
+    latest_id: https://syst3mfailure.io/corjail/
   https://the-deniss.github.io/feed.xml:
     latest_id: https://the-deniss.github.io/posts/2023/02/09/elevation-of-privileges-from-everyone-through-avast-av-sandbox-to-system-amppl
   https://wechat2rss.xlab.app/feed/059ae07ca76f11c6e9f9fad7698ab205b3b039c8.xml:

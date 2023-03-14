@@ -20,7 +20,7 @@ cache:
   https://devco.re/rss:
     latest_id: https://devco.re/blog/2023/01/14/3rd-internship-program-recruit
   https://exploit.ph/feeds/all.atom.xml:
-    latest_id: tag:exploit.ph,2022-05-09:/defending-the-three-headed-relay.html
+    latest_id: tag:exploit.ph,2023-03-14:/external-trusts-are-evil.html
   https://gist.github.com/CCob.atom:
     latest_id: tag:gist.github.com,2008:Gist/CCob/4b97f353f58d96e925c63b3909cbe8bd
   https://gist.github.com/HarmJ0y.atom:
@@ -32,7 +32,7 @@ cache:
   https://gist.github.com/coldfusion39.atom:
     latest_id: tag:gist.github.com,2008:Gist/coldfusion39/b5a4deed7bda286dfdc5b37d5f9b4b32
   https://gist.github.com/monoxgas.atom:
-    latest_id: tag:gist.github.com,2008:Gist/monoxgas/96a29562821978992b07e236379e07ab
+    latest_id: tag:gist.github.com,2008:Gist/monoxgas/ee0c4a5f501253b595603773eafbc5b7
   https://gist.github.com/nullbind.atom:
     latest_id: tag:gist.github.com,2008:Gist/nullbind/da995d81b1d8eea3ee5b601ee7f14542
   https://gist.github.com/ujin5.atom:

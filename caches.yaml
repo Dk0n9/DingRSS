@@ -50,7 +50,7 @@ cache:
   https://pentestlab.blog/feed/atom/:
     latest_id: http://pentestlab.blog/?p=31005
   https://research.nccgroup.com/category/technical-advisory/feed/atom/:
-    latest_id: https://research.nccgroup.com/?p=17930
+    latest_id: https://ncc-blog.pixelpreview.net/?p=24769
   https://rss.app/feeds/rX5by85Q0daaYb6v.xml:
     latest_id: 42de9c7dfe8a338fd31ed95056a7a61a
   https://rsshub.app/project-zero-issues:

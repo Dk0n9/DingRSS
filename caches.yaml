@@ -72,7 +72,7 @@ cache:
   https://wiki.ioin.in/atom:
     latest_id: https://govuln.com/news/url/ADyg
   https://www.cobaltstrike.com/blog/feed/atom/:
-    latest_id: https://www.cobaltstrike.com/?p=12038
+    latest_id: https://www.cobaltstrike.com/?p=12084
   https://www.microsoft.com/en-us/security/blog/feed/:
     latest_id: https://www.microsoft.com/en-us/security/blog/?p=125999
   https://www.praetorian.com/blog/feed/atom/:

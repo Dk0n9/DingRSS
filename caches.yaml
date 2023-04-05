@@ -50,7 +50,7 @@ cache:
   https://pentestlab.blog/feed/atom/:
     latest_id: http://pentestlab.blog/?p=31005
   https://research.nccgroup.com/category/technical-advisory/feed/atom/:
-    latest_id: https://ncc-blog.pixelpreview.net/?p=24769
+    latest_id: https://ncc-blog.pixelpreview.net/2017/09/18/technical-advisory-play-pac4j-authentication-rule-bypass/
   https://rss.app/feeds/rX5by85Q0daaYb6v.xml:
     latest_id: 42de9c7dfe8a338fd31ed95056a7a61a
   https://rsshub.app/project-zero-issues:

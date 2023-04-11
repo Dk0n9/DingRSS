@@ -74,11 +74,11 @@ cache:
   https://www.cobaltstrike.com/blog/feed/atom/:
     latest_id: https://www.cobaltstrike.com/?p=12088
   https://www.microsoft.com/en-us/security/blog/feed/:
-    latest_id: https://www.microsoft.com/en-us/security/blog/?p=127091
+    latest_id: https://www.microsoft.com/en-us/security/blog/?p=127142
   https://www.praetorian.com/blog/feed/atom/:
     latest_id: https://www.praetorian.com/?p=4576
   https://www.rcesecurity.com/feed/:
-    latest_id: https://www.rcesecurity.com/?p=1314
+    latest_id: https://www.rcesecurity.com/?p=1398
   https://www.zerodayinitiative.com/blog/?format=rss:
     latest_id: 5894c269e4fcb5e65a1ed623:58a5b38cb3db2bd67b608658:642da10791ad7913fcb3c2bc
   https://xlab.tencent.com/cn/feed/:

@@ -44,7 +44,7 @@ cache:
   https://googleprojectzero.blogspot.com/feeds/posts/default:
     latest_id: tag:blogger.com,1999:blog-4838136820032157985.post-8686178874057357713
   https://itm4n.github.io/feed.xml:
-    latest_id: https://itm4n.github.io/insomnihack-2023-insobug/
+    latest_id: https://itm4n.github.io/bypassing-ppl-in-userland-again/
   https://niemand.com.ar/feed/:
     latest_id: https://niemand.com.ar/?p=1386
   https://pentestlab.blog/feed/atom/:

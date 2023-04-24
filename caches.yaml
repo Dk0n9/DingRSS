@@ -42,7 +42,7 @@ cache:
   https://github.com/Mr-Un1k0d3r.atom:
     latest_id: tag:github.com,2008:PushEvent/28006008581
   https://googleprojectzero.blogspot.com/feeds/posts/default:
-    latest_id: tag:blogger.com,1999:blog-4838136820032157985.post-8686178874057357713
+    latest_id: tag:blogger.com,1999:blog-4838136820032157985.post-8620541757669029217
   https://itm4n.github.io/feed.xml:
     latest_id: https://itm4n.github.io/bypassing-ppl-in-userland-again/
   https://niemand.com.ar/feed/:
@@ -74,7 +74,7 @@ cache:
   https://www.cobaltstrike.com/blog/feed/atom/:
     latest_id: https://www.cobaltstrike.com/?p=12088
   https://www.microsoft.com/en-us/security/blog/feed/:
-    latest_id: https://www.microsoft.com/en-us/security/blog/?p=126799
+    latest_id: https://www.microsoft.com/en-us/security/blog/?p=127244
   https://www.praetorian.com/blog/feed/atom/:
     latest_id: https://www.praetorian.com/?p=4576
   https://www.rcesecurity.com/feed/:

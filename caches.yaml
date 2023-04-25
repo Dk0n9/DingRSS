@@ -76,7 +76,7 @@ cache:
   https://www.microsoft.com/en-us/security/blog/feed/:
     latest_id: https://www.microsoft.com/en-us/security/blog/?p=127244
   https://www.praetorian.com/blog/feed/atom/:
-    latest_id: https://www.praetorian.com/?p=4576
+    latest_id: https://www.praetorian.com/?p=4612
   https://www.rcesecurity.com/feed/:
     latest_id: https://www.rcesecurity.com/?p=1408
   https://www.zerodayinitiative.com/blog/?format=rss:

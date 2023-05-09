@@ -80,6 +80,6 @@ cache:
   https://www.rcesecurity.com/feed/:
     latest_id: https://www.rcesecurity.com/?p=1408
   https://www.zerodayinitiative.com/blog/?format=rss:
-    latest_id: 5894c269e4fcb5e65a1ed623:58a5b38cb3db2bd67b608658:64502625e391c8439cbee9f4
+    latest_id: 5894c269e4fcb5e65a1ed623:58a5b38cb3db2bd67b608658:645944452591b76f779cb5ac
   https://xlab.tencent.com/cn/feed/:
     latest_id: https://xlab.tencent.com/cn/2021/06/21/xlab-21-001/

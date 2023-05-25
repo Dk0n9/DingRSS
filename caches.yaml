@@ -74,12 +74,12 @@ cache:
   https://www.cobaltstrike.com/blog/feed/atom/:
     latest_id: https://www.cobaltstrike.com/?p=12118
   https://www.microsoft.com/en-us/security/blog/feed/:
-    latest_id: https://www.microsoft.com/en-us/security/blog/2023/05/19/cyber-signals-shifting-tactics-fuel-surge-in-business-email-compromise/
+    latest_id: https://www.microsoft.com/en-us/security/blog/2023/05/24/volt-typhoon-targets-us-critical-infrastructure-with-living-off-the-land-techniques/
   https://www.praetorian.com/blog/feed/atom/:
     latest_id: https://www.praetorian.com/?p=4642
   https://www.rcesecurity.com/feed/:
     latest_id: https://www.rcesecurity.com/?p=1408
   https://www.zerodayinitiative.com/blog/?format=rss:
-    latest_id: 5894c269e4fcb5e65a1ed623:58a5b38cb3db2bd67b608658:64652c822dcf0d009e347fe0
+    latest_id: 5894c269e4fcb5e65a1ed623:58a5b38cb3db2bd67b608658:646e57de67cf777db719ba9b
   https://xlab.tencent.com/cn/feed/:
     latest_id: https://xlab.tencent.com/cn/2021/06/21/xlab-21-001/

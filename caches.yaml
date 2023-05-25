@@ -18,7 +18,7 @@ cache:
   https://casvancooten.com/posts/index.xml:
     latest_id: https://casvancooten.com/posts/2021/10/so-you-wanna-hack-a-bank-global-central-bank-paces-certification-review/
   https://devco.re/rss:
-    latest_id: https://devco.re/blog/2023/01/14/3rd-internship-program-recruit
+    latest_id: https://devco.re/blog/2023/05/26/from-cybersecurity-muggle-to-red-team-specialist-vtim
   https://exploit.ph/feeds/all.atom.xml:
     latest_id: tag:exploit.ph,2023-03-14:/external-trusts-are-evil.html
   https://gist.github.com/CCob.atom:
@@ -74,7 +74,7 @@ cache:
   https://www.cobaltstrike.com/blog/feed/atom/:
     latest_id: https://www.cobaltstrike.com/?p=12118
   https://www.microsoft.com/en-us/security/blog/feed/:
-    latest_id: https://www.microsoft.com/en-us/security/blog/2023/05/19/cyber-signals-shifting-tactics-fuel-surge-in-business-email-compromise/
+    latest_id: https://www.microsoft.com/en-us/security/blog/2023/05/24/volt-typhoon-targets-us-critical-infrastructure-with-living-off-the-land-techniques/
   https://www.praetorian.com/blog/feed/atom/:
     latest_id: https://www.praetorian.com/?p=4642
   https://www.rcesecurity.com/feed/:

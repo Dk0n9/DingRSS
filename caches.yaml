@@ -8,7 +8,7 @@ cache:
   https://blog.badsectorlabs.com/feeds/all.atom.xml:
     latest_id: tag:blog.badsectorlabs.com,2023-05-22:/last-week-in-security-lwis-2023-05-22.html
   https://blog.doyensec.com/atom.xml:
-    latest_id: https://blog.doyensec.com//2023/05/04/testing-ztp-platforms-a-primer
+    latest_id: https://blog.doyensec.com//2023/06/01/r2pickledec
   https://blog.gentilkiwi.com/feed:
     latest_id: http://blog.gentilkiwi.com/?p=3321
   https://blog.redxorblue.com/atom.xml:
@@ -74,7 +74,7 @@ cache:
   https://www.cobaltstrike.com/blog/feed/atom/:
     latest_id: https://www.cobaltstrike.com/?p=12118
   https://www.microsoft.com/en-us/security/blog/feed/:
-    latest_id: https://www.microsoft.com/en-us/security/blog/2023/05/30/new-macos-vulnerability-migraine-could-bypass-system-integrity-protection/
+    latest_id: https://www.microsoft.com/en-us/security/blog/2023/05/15/microsoft-security-highlights-from-rsa-conference-2023/
   https://www.praetorian.com/blog/feed/atom/:
     latest_id: https://www.praetorian.com/?p=4642
   https://www.rcesecurity.com/feed/:

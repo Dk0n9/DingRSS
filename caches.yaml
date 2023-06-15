@@ -74,7 +74,7 @@ cache:
   https://www.cobaltstrike.com/blog/feed/atom/:
     latest_id: https://www.cobaltstrike.com/?p=12118
   https://www.microsoft.com/en-us/security/blog/feed/:
-    latest_id: https://www.microsoft.com/en-us/security/blog/2023/06/14/expanding-horizons-microsoft-securitys-continued-commitment-to-multicloud/
+    latest_id: https://www.microsoft.com/en-us/security/blog/2023/06/13/how-microsoft-and-sonrai-integrate-to-eliminate-attack-paths/
   https://www.praetorian.com/blog/feed/atom/:
     latest_id: https://www.praetorian.com/?p=4720
   https://www.rcesecurity.com/feed/:

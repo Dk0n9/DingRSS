@@ -73,8 +73,8 @@ cache:
     latest_id: https://govuln.com/news/url/G7mA
   https://www.cobaltstrike.com/blog/feed/atom/:
     latest_id: https://www.cobaltstrike.com/?p=12118
-  https://www.microsoft.com/en-us/security/blog/feed/:
-    latest_id: https://www.microsoft.com/en-us/security/blog/2023/06/12/forrester-names-microsoft-a-leader-in-the-2023-enterprise-email-security-wave/
+#  https://www.microsoft.com/en-us/security/blog/feed/:
+#    latest_id: https://www.microsoft.com/en-us/security/blog/2023/06/12/forrester-names-microsoft-a-leader-in-the-2023-enterprise-email-security-wave/
   https://www.praetorian.com/blog/feed/atom/:
     latest_id: https://www.praetorian.com/?p=4720
   https://www.rcesecurity.com/feed/:

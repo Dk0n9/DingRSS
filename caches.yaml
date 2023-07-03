@@ -76,7 +76,7 @@ cache:
   https://www.praetorian.com/blog/feed/atom/:
     latest_id: https://www.praetorian.com/?p=4736
   https://www.rcesecurity.com/feed/:
-    latest_id: https://www.rcesecurity.com/?p=1408
+    latest_id: https://www.rcesecurity.com/?p=1502
   https://www.zerodayinitiative.com/blog/?format=rss:
     latest_id: 5894c269e4fcb5e65a1ed623:58a5b38cb3db2bd67b608658:649da382cfd37f6cffd4d25c
   https://xlab.tencent.com/cn/feed/:

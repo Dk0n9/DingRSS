@@ -8,7 +8,7 @@ cache:
   https://blog.badsectorlabs.com/feeds/all.atom.xml:
     latest_id: tag:blog.badsectorlabs.com,2023-07-17:/last-week-in-security-lwis-2023-07-17.html
   https://blog.doyensec.com/atom.xml:
-    latest_id: https://blog.doyensec.com//2023/06/13/messing-around-with-aws-batch-for-privilege-escalations
+    latest_id: https://blog.doyensec.com//2023/07/18/streamlining-websocket-pentesting-with-wsrepl
   https://blog.gentilkiwi.com/feed:
     latest_id: http://blog.gentilkiwi.com/?p=3321
   https://blog.redxorblue.com/atom.xml:

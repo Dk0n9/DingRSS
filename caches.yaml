@@ -20,7 +20,7 @@ cache:
   https://devco.re/rss:
     latest_id: https://devco.re/blog/2023/07/18/4nd-internship-program-recruit
   https://exploit.ph/feeds/all.atom.xml:
-    latest_id: tag:exploit.ph,2023-03-14:/external-trusts-are-evil.html
+    latest_id: tag:exploit.ph,2023-08-08:/des-is-useful.html
   https://gist.github.com/CCob.atom:
     latest_id: tag:gist.github.com,2008:Gist/CCob/4b97f353f58d96e925c63b3909cbe8bd
   https://gist.github.com/HarmJ0y.atom:

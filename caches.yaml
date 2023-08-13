@@ -14,7 +14,7 @@ cache:
   https://blog.redxorblue.com/atom.xml:
     latest_id: tag:blogger.com,1999:blog-8176792450471116129.post-374315080104864386
   https://blog.xpnsec.com/rss.xml:
-    latest_id: https://blog.xpnsec.com/png-steganography/
+    latest_id: https://blog.xpnsec.com/LAPSv2-Internals/
   https://casvancooten.com/posts/index.xml:
     latest_id: https://casvancooten.com/posts/2021/10/so-you-wanna-hack-a-bank-global-central-bank-paces-certification-review/
   https://devco.re/rss:

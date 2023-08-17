@@ -8,7 +8,7 @@ cache:
   https://blog.badsectorlabs.com/feeds/all.atom.xml:
     latest_id: tag:blog.badsectorlabs.com,2023-08-07:/last-week-in-security-lwis-2023-08-07.html
   https://blog.doyensec.com/atom.xml:
-    latest_id: https://blog.doyensec.com//2023/07/26/huawei-theme-arbitrary-code-exec
+    latest_id: https://blog.doyensec.com//2023/08/17/inql-v5
   https://blog.gentilkiwi.com/feed:
     latest_id: http://blog.gentilkiwi.com/?p=3321
   https://blog.redxorblue.com/atom.xml:

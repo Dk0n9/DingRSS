@@ -8,7 +8,7 @@ cache:
   https://blog.badsectorlabs.com/feeds/all.atom.xml:
     latest_id: tag:blog.badsectorlabs.com,2023-08-29:/last-week-in-security-lwis-2023-08-29.html
   https://blog.doyensec.com/atom.xml:
-    latest_id: https://blog.doyensec.com//2023/08/17/inql-v5
+    latest_id: https://blog.doyensec.com//2023/08/31/introducing-session-hijacking-visual-exploitation
   https://blog.gentilkiwi.com/feed:
     latest_id: http://blog.gentilkiwi.com/?p=3321
   https://blog.redxorblue.com/atom.xml:

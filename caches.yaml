@@ -54,7 +54,7 @@ cache:
   https://rss.app/feeds/rX5by85Q0daaYb6v.xml:
     latest_id: 42de9c7dfe8a338fd31ed95056a7a61a
   https://rsshub.app/project-zero-issues:
-    latest_id: https://bugs.chromium.org/p/project-zero/issues/detail?id=2483
+    latest_id: https://bugs.chromium.org/p/project-zero/issues/detail?id=2494
   https://s3cur3th1ssh1t.github.io/feed.xml:
     latest_id: https://s3cur3th1ssh1t.github.io/Cat_Mouse_or_Chess
   https://secret.club/feed.xml:
@@ -70,7 +70,7 @@ cache:
   https://wechat2rss.xlab.app/feed/947b46dba9754e10360d267a5ee9a87597e0bafe.xml:
     latest_id: https://mp.weixin.qq.com/s?__biz=MzI2MjQ1NTA4MA==&mid=2247489309&idx=1&sn=f43c81f0002fcb4364631a3bdb6325df&chksm=ea4bbd5add3c344cb9c339998eaecc84c39c39f38a930958c93fd1d0e8e5c4973203f8316f2f&scene=58&subscene=0#rd
   https://wiki.ioin.in/atom:
-    latest_id: https://govuln.com/news/url/lEJQ
+    latest_id: https://govuln.com/news/url/G71p
   https://www.cobaltstrike.com/blog/feed/atom/:
     latest_id: https://www.cobaltstrike.com/?p=12199
   https://www.praetorian.com/blog/feed/atom/:

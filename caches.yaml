@@ -78,6 +78,6 @@ cache:
   https://www.rcesecurity.com/feed/:
     latest_id: https://www.rcesecurity.com/?p=1502
   https://www.zerodayinitiative.com/blog/?format=rss:
-    latest_id: 5894c269e4fcb5e65a1ed623:58a5b38cb3db2bd67b608658:65787527fd07e018bb3f0c6f
+    latest_id: 5894c269e4fcb5e65a1ed623:58a5b38cb3db2bd67b608658:6596df1cb669440352c31e49
   https://xlab.tencent.com/cn/feed/:
     latest_id: https://xlab.tencent.com/cn/2023/12/05/hide_and_seek/

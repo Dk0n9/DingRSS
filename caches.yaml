@@ -2,7 +2,7 @@ cache:
   Placeholder:
     latest_id: this is placeholder
   http://rss.ricterz.me/hacktivity:
-    latest_id: https://hackerone.com/reports/1618100
+    latest_id: https://hackerone.com/reports/1108504
   https://3gstudent.github.io/atom.xml:
     latest_id: https://3gstudent.github.io/Java%E5%88%A9%E7%94%A8%E6%8A%80%E5%B7%A7-Jetty-Servlet%E5%9E%8B%E5%86%85%E5%AD%98%E9%A9%AC
   https://blog.badsectorlabs.com/feeds/all.atom.xml:
@@ -40,7 +40,7 @@ cache:
   https://gist.github.com/xpn.atom:
     latest_id: tag:gist.github.com,2008:Gist/xpn/30094cab39ea8946d8372a06e804866c
   https://github.com/Mr-Un1k0d3r.atom:
-    latest_id: tag:github.com,2008:PushEvent/33263517461
+    latest_id: tag:github.com,2008:PushEvent/35062577006
   https://googleprojectzero.blogspot.com/feeds/posts/default:
     latest_id: tag:blogger.com,1999:blog-4838136820032157985.post-2472210734448723641
   https://itm4n.github.io/feed.xml:

@@ -74,7 +74,7 @@ cache:
   https://www.cobaltstrike.com/blog/feed/atom/:
     latest_id: https://www.cobaltstrike.com/?p=12199
   https://www.praetorian.com/blog/feed/atom/:
-    latest_id: https://www.praetorian.com/?p=5596
+    latest_id: https://www.praetorian.com/?p=5611
   https://www.rcesecurity.com/feed/:
     latest_id: https://www.rcesecurity.com/?p=1502
   https://www.zerodayinitiative.com/blog/?format=rss:

@@ -8,7 +8,7 @@ cache:
   https://blog.badsectorlabs.com/feeds/all.atom.xml:
     latest_id: tag:blog.badsectorlabs.com,2024-03-11:/last-week-in-security-lwis-2024-03-11.html
   https://blog.doyensec.com/atom.xml:
-    latest_id: http://localhost:4000/2024/02/17/server-side-prototype-pollution-Gadgets-scanner
+    latest_id: https://blog.doyensec.com/2024/03/14/supplychain
   https://blog.gentilkiwi.com/feed:
     latest_id: http://blog.gentilkiwi.com/?p=3321
   https://blog.redxorblue.com/atom.xml:

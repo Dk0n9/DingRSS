@@ -52,7 +52,7 @@ cache:
   https://research.nccgroup.com/category/technical-advisory/feed/atom/:
     latest_id: https://research.nccgroup.com/?p=29676
   https://rss.app/feeds/rX5by85Q0daaYb6v.xml:
-    latest_id: 0fcdb3d733b77dc100f53f7afb9f52bb
+    latest_id: 42de9c7dfe8a338fd31ed95056a7a61a
   https://rsshub.app/project-zero-issues:
     latest_id: https://bugs.chromium.org/p/project-zero/issues/detail?id=2494
   https://s3cur3th1ssh1t.github.io/feed.xml:

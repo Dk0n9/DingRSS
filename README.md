@@ -21,7 +21,6 @@
 - [Red XOR Blue](https://blog.redxorblue.com/)
 - [Posts :: Cas van Cooten](https://casvancooten.com/posts/)
 - [S3cur3Th1sSh1t](https://s3cur3th1ssh1t.github.io/)
-- [Mr-Un1k0d3r Github](https://github.com/Mr-Un1k0d3r)
 - [eXploit](https://exploit.ph/)
 - [impacket Pull requests](https://github.com/SecureAuthCorp/impacket/pulls)
 - [Project Zero Blog](https://googleprojectzero.blogspot.com/)
@@ -48,6 +47,7 @@
 - [Cobalt Strike Blog](https://www.cobaltstrike.com/blog/)
 - [the-deniss.github.io](https://the-deniss.github.io/)
 - [Blog - Praetorian](https://www.praetorian.com/blog/)
+- [Talkback - Technical](https://talkback.sh/tech/)
 
 ## Contributing
 

@@ -39,8 +39,6 @@ cache:
     latest_id: tag:gist.github.com,2008:Gist/ujin5/6b9a32eedc5a39d714a3a72f06efffe5
   https://gist.github.com/xpn.atom:
     latest_id: tag:gist.github.com,2008:Gist/xpn/30094cab39ea8946d8372a06e804866c
-  https://github.com/Mr-Un1k0d3r.atom:
-    latest_id: tag:github.com,2008:PushEvent/37179819626
   https://googleprojectzero.blogspot.com/feeds/posts/default:
     latest_id: tag:blogger.com,1999:blog-4838136820032157985.post-2472210734448723641
   https://itm4n.github.io/feed.xml:
@@ -81,3 +79,5 @@ cache:
     latest_id: 5894c269e4fcb5e65a1ed623:58a5b38cb3db2bd67b608658:66157e7f2eda2f1607e47653
   https://xlab.tencent.com/cn/feed/:
     latest_id: https://xlab.tencent.com/cn/2024/01/26/edr-alert-analysis-robot/
+  https://talkback.sh/tech/feed/:
+    latest_id: https://talkback.sh/resource/5c1ff703-48c0-49c8-bc4f-d05e4a300f71

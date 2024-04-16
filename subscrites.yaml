@@ -15,7 +15,6 @@ subscrites:
   - "https://blog.redxorblue.com/atom.xml"
   - "https://casvancooten.com/posts/index.xml"
   - "https://s3cur3th1ssh1t.github.io/feed.xml"
-  - "https://github.com/Mr-Un1k0d3r.atom"
   - "https://exploit.ph/feeds/all.atom.xml"
   - "https://googleprojectzero.blogspot.com/feeds/posts/default"
   - "https://rss.app/feeds/rX5by85Q0daaYb6v.xml"
@@ -40,3 +39,4 @@ subscrites:
   - "https://www.cobaltstrike.com/blog/feed/atom/"
   - "https://the-deniss.github.io/feed.xml"
   - "https://www.praetorian.com/blog/feed/atom/"
+  - "https://talkback.sh/tech/feed/"

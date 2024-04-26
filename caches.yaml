@@ -60,7 +60,7 @@ cache:
   https://syst3mfailure.io/feed.xml:
     latest_id: https://syst3mfailure.io/corjail/
   https://talkback.sh/tech/feed/:
-    latest_id: https://talkback.sh/resource/9253e521-70dc-4d2f-a4b7-11e5982ee099
+    latest_id: https://talkback.sh/resource/10c8c8eb-f8b3-4ca1-9dfb-1021e93fb628
   https://the-deniss.github.io/feed.xml:
     latest_id: https://the-deniss.github.io/posts/avast-privileged-arbitrary-file-create-on-restore
   https://wechat2rss.xlab.app/feed/059ae07ca76f11c6e9f9fad7698ab205b3b039c8.xml:

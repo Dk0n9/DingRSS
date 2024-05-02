@@ -8,7 +8,7 @@ cache:
   https://blog.badsectorlabs.com/feeds/all.atom.xml:
     latest_id: tag:blog.badsectorlabs.com,2024-04-29:/last-week-in-security-lwis-2024-04-29.html
   https://blog.doyensec.com/atom.xml:
-    latest_id: https://blog.doyensec.com/2024/03/22/summer-internship-2023
+    latest_id: https://blog.doyensec.com/2024/05/02/products-security-audit-vs-bugbounty
   https://blog.gentilkiwi.com/feed:
     latest_id: http://blog.gentilkiwi.com/?p=3321
   https://blog.redxorblue.com/atom.xml:

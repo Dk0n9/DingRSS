@@ -2,7 +2,7 @@ cache:
   Placeholder:
     latest_id: this is placeholder
   http://rss.ricterz.me/hacktivity:
-    latest_id: https://hackerone.com/reports/2451113
+    latest_id: https://hackerone.com/reports/2376929
   https://3gstudent.github.io/atom.xml:
     latest_id: https://3gstudent.github.io/Java%E5%88%A9%E7%94%A8%E6%8A%80%E5%B7%A7-Jetty-Servlet%E5%9E%8B%E5%86%85%E5%AD%98%E9%A9%AC
   https://blog.badsectorlabs.com/feeds/all.atom.xml:
@@ -60,7 +60,7 @@ cache:
   https://syst3mfailure.io/feed.xml:
     latest_id: https://syst3mfailure.io/corjail/
   https://talkback.sh/tech/feed/:
-    latest_id: https://talkback.sh/resource/14e92d2a-f2ee-4125-8526-c55d129bf6c7
+    latest_id: https://talkback.sh/resource/56a16820-ae38-474e-8fa9-25b56a244c5f
   https://the-deniss.github.io/feed.xml:
     latest_id: https://the-deniss.github.io/posts/avast-privileged-arbitrary-file-create-on-restore
   https://wechat2rss.xlab.app/feed/059ae07ca76f11c6e9f9fad7698ab205b3b039c8.xml:

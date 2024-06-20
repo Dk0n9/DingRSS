@@ -8,7 +8,7 @@ cache:
   https://blog.badsectorlabs.com/feeds/all.atom.xml:
     latest_id: tag:blog.badsectorlabs.com,2024-06-17:/last-week-in-security-lwis-2024-06-17.html
   https://blog.doyensec.com/atom.xml:
-    latest_id: https://blog.doyensec.com/2024/05/02/products-security-audit-vs-bugbounty
+    latest_id: https://blog.doyensec.com/2024/06/20/compromised-idp
   https://blog.gentilkiwi.com/feed:
     latest_id: http://blog.gentilkiwi.com/?p=3321
   https://blog.redxorblue.com/atom.xml:
@@ -40,7 +40,7 @@ cache:
   https://gist.github.com/xpn.atom:
     latest_id: tag:gist.github.com,2008:Gist/xpn/30094cab39ea8946d8372a06e804866c
   https://googleprojectzero.blogspot.com/feeds/posts/default:
-    latest_id: tag:blogger.com,1999:blog-4838136820032157985.post-3663024175311920488
+    latest_id: tag:blogger.com,1999:blog-4838136820032157985.post-2962277613729133834
   https://itm4n.github.io/feed.xml:
     latest_id: https://itm4n.github.io/peap-credentials-wired-connections/
   https://niemand.com.ar/feed/:

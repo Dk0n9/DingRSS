@@ -18,7 +18,7 @@ cache:
   https://casvancooten.com/posts/index.xml:
     latest_id: https://casvancooten.com/posts/2021/10/so-you-wanna-hack-a-bank-global-central-bank-paces-certification-review/
   https://devco.re/rss:
-    latest_id: https://devco.re/blog/2024/06/06/security-alert-cve-2024-4577-php-cgi-argument-injection-vulnerability
+    latest_id: https://devco.re/blog/2024/07/09/guide-to-applying-for-red-team-specialist
   https://exploit.ph/feeds/all.atom.xml:
     latest_id: tag:exploit.ph,2023-08-08:/des-is-useful.html
   https://gist.github.com/CCob.atom:

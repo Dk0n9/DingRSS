@@ -18,7 +18,7 @@ cache:
   https://casvancooten.com/posts/index.xml:
     latest_id: https://casvancooten.com/posts/2021/10/so-you-wanna-hack-a-bank-global-central-bank-paces-certification-review/
   https://devco.re/rss:
-    latest_id: https://devco.re/blog/2024/08/09/confusion-attacks-exploiting-hidden-semantic-ambiguity-in-apache-http-server
+    latest_id: https://devco.re/blog/2024/08/23/streaming-vulnerabilities-from-windows-kernel-proxying-to-kernel-part1
   https://exploit.ph/feeds/all.atom.xml:
     latest_id: tag:exploit.ph,2023-08-08:/des-is-useful.html
   https://gist.github.com/CCob.atom:
@@ -60,7 +60,7 @@ cache:
   https://syst3mfailure.io/feed.xml:
     latest_id: https://syst3mfailure.io/corjail/
   https://talkback.sh/tech/feed/:
-    latest_id: https://talkback.sh/resource/0dbb6550-03bb-483b-8dc8-afe0505a2f02
+    latest_id: https://talkback.sh/resource/b836e1d0-8807-4bfb-a7f0-4cc88cef98ab
   https://the-deniss.github.io/feed.xml:
     latest_id: https://the-deniss.github.io/posts/avast-privileged-arbitrary-file-create-on-restore
   https://wechat2rss.xlab.app/feed/059ae07ca76f11c6e9f9fad7698ab205b3b039c8.xml:

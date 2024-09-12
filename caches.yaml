@@ -28,7 +28,7 @@ cache:
   https://gist.github.com/S3cur3Th1sSh1t.atom:
     latest_id: tag:gist.github.com,2008:Gist/S3cur3Th1sSh1t/a2c33cb0a9d17275e8129d6aacbfee35
   https://gist.github.com/aaaddress1.atom:
-    latest_id: tag:gist.github.com,2008:Gist/aaaddress1/d912d52257027d2d8b457546a558e359
+    latest_id: tag:gist.github.com,2008:Gist/aaaddress1/514cd293fc9af37d4455c0adddeac2a2
   https://gist.github.com/coldfusion39.atom:
     latest_id: tag:gist.github.com,2008:Gist/coldfusion39/6b0851e8e190e47deca307d4b4e02870
   https://gist.github.com/monoxgas.atom:
@@ -78,6 +78,6 @@ cache:
   https://www.rcesecurity.com/feed/:
     latest_id: https://www.rcesecurity.com/?p=2010
   https://www.zerodayinitiative.com/blog/?format=rss:
-    latest_id: 5894c269e4fcb5e65a1ed623:58a5b38cb3db2bd67b608658:66e07f45c60a2e7a02fabeb6
+    latest_id: 5894c269e4fcb5e65a1ed623:58a5b38cb3db2bd67b608658:66e1d60259527a323d805e5c
   https://xlab.tencent.com/cn/feed/:
     latest_id: https://xlab.tencent.com/cn/2024/01/26/edr-alert-analysis-robot/

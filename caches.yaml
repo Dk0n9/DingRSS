@@ -42,7 +42,7 @@ cache:
   https://googleprojectzero.blogspot.com/feeds/posts/default:
     latest_id: tag:blogger.com,1999:blog-4838136820032157985.post-3099629167196977566
   https://itm4n.github.io/feed.xml:
-    latest_id: https://itm4n.github.io/ghost-in-the-ppl-part-2/
+    latest_id: https://itm4n.github.io/ghost-in-the-ppl-part-3/
   https://niemand.com.ar/feed/:
     latest_id: https://niemand.com.ar/?p=1386
   https://pentestlab.blog/feed/atom/:

@@ -8,7 +8,7 @@ cache:
   https://blog.badsectorlabs.com/feeds/all.atom.xml:
     latest_id: tag:blog.badsectorlabs.com,2024-09-16:/last-week-in-security-lwis-2024-09-16.html
   https://blog.doyensec.com/atom.xml:
-    latest_id: https://blog.doyensec.com/2024/07/18/custom-actions
+    latest_id: https://blog.doyensec.com/2024/09/19/phishing-case-study
   https://blog.gentilkiwi.com/feed:
     latest_id: http://blog.gentilkiwi.com/?p=3321
   https://blog.redxorblue.com/atom.xml:

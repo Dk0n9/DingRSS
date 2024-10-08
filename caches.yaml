@@ -60,7 +60,7 @@ cache:
   https://syst3mfailure.io/feed.xml:
     latest_id: https://syst3mfailure.io/corjail/
   https://talkback.sh/tech/feed/:
-    latest_id: https://talkback.sh/resource/41b1ae14-268e-41d3-bf37-4f78263e2b82/
+    latest_id: https://talkback.sh/resource/adb29383-65c9-4fdd-be57-1f9b5169f169/
   https://the-deniss.github.io/feed.xml:
     latest_id: https://the-deniss.github.io/posts/avast-privileged-arbitrary-file-create-on-restore
   https://wechat2rss.xlab.app/feed/059ae07ca76f11c6e9f9fad7698ab205b3b039c8.xml:
@@ -78,6 +78,6 @@ cache:
   https://www.rcesecurity.com/feed/:
     latest_id: https://www.rcesecurity.com/?p=2010
   https://www.zerodayinitiative.com/blog/?format=rss:
-    latest_id: 5894c269e4fcb5e65a1ed623:58a5b38cb3db2bd67b608658:66fd98460cdf9c480a4f9050
+    latest_id: 5894c269e4fcb5e65a1ed623:58a5b38cb3db2bd67b608658:670568dfdef3e375888ba8fa
   https://xlab.tencent.com/cn/feed/:
     latest_id: https://xlab.tencent.com/cn/2024/01/26/edr-alert-analysis-robot/

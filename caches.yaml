@@ -14,7 +14,7 @@ cache:
   https://blog.redxorblue.com/atom.xml:
     latest_id: tag:blogger.com,1999:blog-8176792450471116129.post-374315080104864386
   https://blog.xpnsec.com/rss.xml:
-    latest_id: https://blog.xpnsec.com/identity-providers-redteamers/
+    latest_id: https://blog.xpnsec.com/ADFS-Living-in-the-Legacy-of-DRS/
   https://casvancooten.com/posts/index.xml:
     latest_id: https://casvancooten.com/posts/2021/10/so-you-wanna-hack-a-bank-global-central-bank-paces-certification-review/
   https://devco.re/rss:
@@ -60,7 +60,7 @@ cache:
   https://syst3mfailure.io/feed.xml:
     latest_id: https://syst3mfailure.io/corjail/
   https://talkback.sh/tech/feed/:
-    latest_id: https://talkback.sh/resource/dd458b1b-e44f-46ad-bf7b-f1f2c412113c/
+    latest_id: https://talkback.sh/resource/97604f00-1db9-4d54-ad41-f62a1f571d05/
   https://the-deniss.github.io/feed.xml:
     latest_id: https://the-deniss.github.io/posts/avast-privileged-arbitrary-file-create-on-restore
   https://wechat2rss.xlab.app/feed/059ae07ca76f11c6e9f9fad7698ab205b3b039c8.xml:

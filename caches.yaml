@@ -60,7 +60,7 @@ cache:
   https://syst3mfailure.io/feed.xml:
     latest_id: https://syst3mfailure.io/corjail/
   https://talkback.sh/tech/feed/:
-    latest_id: https://talkback.sh/resource/6174eff9-1f0d-4a7b-8dec-4cc091532751/
+    latest_id: https://talkback.sh/resource/77dd63ad-8638-4e02-883d-6d2f604faa4c/
   https://the-deniss.github.io/feed.xml:
     latest_id: https://the-deniss.github.io/posts/avast-privileged-arbitrary-file-create-on-restore
   https://wechat2rss.xlab.app/feed/059ae07ca76f11c6e9f9fad7698ab205b3b039c8.xml:
@@ -74,7 +74,7 @@ cache:
   https://www.cobaltstrike.com/blog/feed/atom/:
     latest_id: https://www.cobaltstrike.com/?p=12199
   https://www.praetorian.com/blog/feed/atom/:
-    latest_id: https://www.praetorian.com/?p=3420
+    latest_id: https://www.praetorian.com/?p=3418
   https://www.rcesecurity.com/feed/:
     latest_id: https://www.rcesecurity.com/?p=2010
   https://www.zerodayinitiative.com/blog/?format=rss:

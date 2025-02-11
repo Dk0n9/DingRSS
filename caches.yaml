@@ -8,7 +8,7 @@ cache:
   https://blog.badsectorlabs.com/feeds/all.atom.xml:
     latest_id: tag:blog.badsectorlabs.com,2025-02-10:/last-week-in-security-lwis-2025-02-10.html
   https://blog.doyensec.com/atom.xml:
-    latest_id: https://blog.doyensec.com/2025/01/30/oauth-common-vulnerabilities
+    latest_id: https://blog.doyensec.com/2025/02/11/exploitable-iot
   https://blog.gentilkiwi.com/feed:
     latest_id: http://blog.gentilkiwi.com/?p=3321
   https://blog.redxorblue.com/atom.xml:

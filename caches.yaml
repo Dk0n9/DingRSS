@@ -16,7 +16,7 @@ cache:
   https://blog.xpnsec.com/rss.xml:
     latest_id: https://blog.xpnsec.com/ADFS-Living-in-the-Legacy-of-DRS/
   https://casvancooten.com/posts/index.xml:
-    latest_id: https://casvancooten.com/posts/2021/10/so-you-wanna-hack-a-bank-global-central-bank-paces-certification-review/
+    latest_id: https://casvancooten.com/posts/2025/02/abusing-vs-codes-bootstrapping-functionality-to-quietly-load-malicious-extensions/
   https://devco.re/rss:
     latest_id: https://devco.re/blog/2025/02/12/from-convenience-to-contagion-the-half-day-threat-and-libarchive-vulnerabilities-lurking-in-windows-11
   https://exploit.ph/feeds/all.atom.xml:
@@ -60,7 +60,7 @@ cache:
   https://syst3mfailure.io/feed.xml:
     latest_id: https://syst3mfailure.io/corjail/
   https://talkback.sh/tech/feed/:
-    latest_id: https://talkback.sh/resource/cdb6f06c-d493-4a57-a954-10cbca37c310/
+    latest_id: https://talkback.sh/resource/c97f4c49-d472-4dba-bec4-2dc1550b4d9c/
   https://the-deniss.github.io/feed.xml:
     latest_id: https://the-deniss.github.io/posts/avast-privileged-arbitrary-file-create-on-restore
   https://wechat2rss.xlab.app/feed/059ae07ca76f11c6e9f9fad7698ab205b3b039c8.xml:

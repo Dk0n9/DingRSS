@@ -18,7 +18,7 @@ cache:
   https://casvancooten.com/posts/index.xml:
     latest_id: https://casvancooten.com/posts/2025/02/abusing-vs-codes-bootstrapping-functionality-to-quietly-load-malicious-extensions/
   https://devco.re/rss:
-    latest_id: https://devco.re/blog/2025/02/12/from-convenience-to-contagion-the-half-day-threat-and-libarchive-vulnerabilities-lurking-in-windows-11
+    latest_id: https://devco.re/blog/2025/04/10/taking-over-the-entire-domain-in-minutes-what-have-you-overlooked-in-active-directory
   https://exploit.ph/feeds/all.atom.xml:
     latest_id: tag:exploit.ph,2023-08-08:/des-is-useful.html
   https://gist.github.com/CCob.atom:

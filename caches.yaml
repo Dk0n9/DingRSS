@@ -60,7 +60,7 @@ cache:
   https://syst3mfailure.io/feed.xml:
     latest_id: https://syst3mfailure.io/two-bytes-of-madness/
   https://talkback.sh/tech/feed/:
-    latest_id: https://talkback.sh/resource/681d42dd-1427-4b2d-97ae-6680c029bf6d/
+    latest_id: https://talkback.sh/resource/5aafb17a-a7ec-4eab-875c-7a8dde8e12cb/
   https://the-deniss.github.io/feed.xml:
     latest_id: https://the-deniss.github.io/posts/avast-privileged-arbitrary-file-create-on-restore
   https://wechat2rss.xlab.app/feed/059ae07ca76f11c6e9f9fad7698ab205b3b039c8.xml:

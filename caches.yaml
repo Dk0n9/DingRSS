@@ -60,7 +60,7 @@ cache:
   https://syst3mfailure.io/feed.xml:
     latest_id: https://syst3mfailure.io/two-bytes-of-madness/
   https://talkback.sh/tech/feed/:
-    latest_id: https://www.onekey.com/resource/security-advisory-remote-code-execution-on-evertz-svdn-cve-2025-4009
+    latest_id: https://www.netscout.com/blog/asert/decoding-tcp-syn-stronger-network-security
   https://the-deniss.github.io/feed.xml:
     latest_id: https://the-deniss.github.io/posts/avast-privileged-arbitrary-file-create-on-restore
   https://wechat2rss.xlab.app/feed/059ae07ca76f11c6e9f9fad7698ab205b3b039c8.xml:

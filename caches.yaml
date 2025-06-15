@@ -42,7 +42,7 @@ cache:
   https://googleprojectzero.blogspot.com/feeds/posts/default:
     latest_id: tag:blogger.com,1999:blog-4838136820032157985.post-2741369537148127470
   https://itm4n.github.io/feed.xml:
-    latest_id: https://itm4n.github.io/checking-symantec-account-credentials-privesccheck/
+    latest_id: https://itm4n.github.io/offline-extraction-of-symantec-account-connectivity-credentials/
   https://niemand.com.ar/feed/:
     latest_id: https://niemand.com.ar/?p=1386
   https://pentestlab.blog/feed/atom/:
@@ -60,7 +60,7 @@ cache:
   https://syst3mfailure.io/feed.xml:
     latest_id: https://syst3mfailure.io/two-bytes-of-madness/
   https://talkback.sh/tech/feed/:
-    latest_id: https://martypc.blogspot.com/2025/06/exploring-16-bit-bus-access-on-pcat.html
+    latest_id: https://xacone.github.io/eneio-driver.html
   https://the-deniss.github.io/feed.xml:
     latest_id: https://the-deniss.github.io/posts/avast-privileged-arbitrary-file-create-on-restore
   https://wechat2rss.xlab.app/feed/059ae07ca76f11c6e9f9fad7698ab205b3b039c8.xml:

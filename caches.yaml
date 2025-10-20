@@ -78,6 +78,6 @@ cache:
   https://www.rcesecurity.com/feed/:
     latest_id: https://www.rcesecurity.com/?p=2264
   https://www.zerodayinitiative.com/blog/?format=rss:
-    latest_id: 5894c269e4fcb5e65a1ed623:58a5b38cb3db2bd67b608658:68f0cb903f5be604e51f6403
+    latest_id: 5894c269e4fcb5e65a1ed623:58a5b38cb3db2bd67b608658:68f0d137d6a57e20c01cf1e2
   https://xlab.tencent.com/cn/feed/:
     latest_id: https://xlab.tencent.com/cn/2025/08/06/universal-and-context-independent-triggers/

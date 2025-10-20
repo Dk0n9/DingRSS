@@ -54,7 +54,7 @@ cache:
   https://rsshub.app/project-zero-issues:
     latest_id: https://bugs.chromium.org/p/project-zero/issues/detail?id=2494
   https://s3cur3th1ssh1t.github.io/feed.xml:
-    latest_id: https://s3cur3th1ssh1t.github.io/Cat_Mouse_or_Chess
+    latest_id: https://s3cur3th1ssh1t.github.io/Revisiting_Cross_Session_Activation_Attacks
   https://secret.club/feed.xml:
     latest_id: https://secret.club/2025/06/02/hypervisors-for-memory-introspection-and-reverse-engineering
   https://syst3mfailure.io/feed.xml:

@@ -80,4 +80,4 @@ cache:
   https://www.zerodayinitiative.com/blog/?format=rss:
     latest_id: 5894c269e4fcb5e65a1ed623:58a5b38cb3db2bd67b608658:68f9dffe645998128dff496f
   https://xlab.tencent.com/cn/feed/:
-    latest_id: https://xlab.tencent.com/cn/2025/08/06/universal-and-context-independent-triggers/
+    latest_id: https://xlab.tencent.com/cn/2025/11/10/atuin-gnark-crypto-vulns/

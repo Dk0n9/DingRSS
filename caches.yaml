@@ -8,7 +8,7 @@ cache:
   https://blog.badsectorlabs.com/feeds/all.atom.xml:
     latest_id: tag:blog.badsectorlabs.com,2026-01-12:/last-week-in-security-lwis-2026-01-12.html
   https://blog.doyensec.com/atom.xml:
-    latest_id: https://blog.doyensec.com/2026/01/22/frida-instrumentation
+    latest_id: https://blog.doyensec.com/2026/02/03/outline-audit-q32025
   https://blog.gentilkiwi.com/feed:
     latest_id: http://blog.gentilkiwi.com/?p=3321
   https://blog.redxorblue.com/atom.xml:

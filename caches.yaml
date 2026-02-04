@@ -60,7 +60,7 @@ cache:
   https://syst3mfailure.io/feed.xml:
     latest_id: https://syst3mfailure.io/rbtree-family-drama/
   https://talkback.sh/tech/feed/:
-    latest_id: https://garwarner.blogspot.com/2026/02/chinese-money-laundering-jargon-via.html
+    latest_id: https://github.com/aloshdenny/reverse-SynthID-text
   https://the-deniss.github.io/feed.xml:
     latest_id: https://the-deniss.github.io/posts/avast-privileged-arbitrary-file-create-on-restore
   https://wechat2rss.xlab.app/feed/059ae07ca76f11c6e9f9fad7698ab205b3b039c8.xml:
@@ -74,7 +74,7 @@ cache:
   https://www.cobaltstrike.com/blog/feed/atom/:
     latest_id: https://www.cobaltstrike.com/?p=12199
   https://www.praetorian.com/blog/feed/atom/:
-    latest_id: https://www.praetorian.com/?p=8388
+    latest_id: https://www.praetorian.com/?p=7580
   https://www.rcesecurity.com/feed/:
     latest_id: https://www.rcesecurity.com/?p=2528
   https://www.zerodayinitiative.com/blog/?format=rss:

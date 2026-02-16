@@ -76,7 +76,7 @@ cache:
   https://www.praetorian.com/blog/feed/atom/:
     latest_id: https://www.praetorian.com/?p=9388
   https://www.rcesecurity.com/feed/:
-    latest_id: https://www.rcesecurity.com/advisories/cve-2025-59793/
+    latest_id: https://www.rcesecurity.com/2026/02/when-audits-fail-pre-auth-ssrf-to-rce-in-trufusion-enterprise/
   https://www.zerodayinitiative.com/blog/?format=rss:
     latest_id: 5894c269e4fcb5e65a1ed623:58a5b38cb3db2bd67b608658:698b7426f2930f643a15a755
   https://xlab.tencent.com/cn/feed/:

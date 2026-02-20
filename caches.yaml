@@ -74,7 +74,7 @@ cache:
   https://www.cobaltstrike.com/blog/feed/atom/:
     latest_id: https://www.cobaltstrike.com/?p=12199
   https://www.praetorian.com/blog/feed/atom/:
-    latest_id: https://www.praetorian.com/?p=9482
+    latest_id: https://www.praetorian.com/?p=9537
   https://www.rcesecurity.com/feed/:
     latest_id: https://www.rcesecurity.com/2026/02/when-audits-fail-from-pre-auth-ssrf-to-rce-in-trufusion-enterprise/
   https://www.zerodayinitiative.com/blog/?format=rss:

@@ -78,6 +78,6 @@ cache:
   https://www.rcesecurity.com/feed/:
     latest_id: https://www.rcesecurity.com/2026/03/stackfield-desktop-app-rce-via-path-traversal-and-arbitrary-file-write-cve-2026-28373/
   https://www.zerodayinitiative.com/blog/?format=rss:
-    latest_id: 5894c269e4fcb5e65a1ed623:58a5b38cb3db2bd67b608658:6a035a738ba7e427f52e0bc0
+    latest_id: 5894c269e4fcb5e65a1ed623:58a5b38cb3db2bd67b608658:6a01e59d63fd433de7fd480f
   https://xlab.tencent.com/cn/feed/:
     latest_id: https://xlab.tencent.com/cn/2026/02/28/ghost-dependency-agentic-coding-supply-chain-threat/

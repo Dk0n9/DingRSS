@@ -8,7 +8,7 @@ cache:
   https://blog.badsectorlabs.com/feeds/all.atom.xml:
     latest_id: tag:blog.badsectorlabs.com,2026-04-06:/taking-a-break-2026-04-06.html
   https://blog.doyensec.com/atom.xml:
-    latest_id: https://blog.doyensec.com/2026/05/05/cloudsectidbits-masso-cognito-sso
+    latest_id: https://blog.doyensec.com/2026/05/19/cfitsio-weaponized-filenames
   https://blog.gentilkiwi.com/feed:
     latest_id: http://blog.gentilkiwi.com/?p=3321
   https://blog.redxorblue.com/atom.xml:

@@ -56,11 +56,11 @@ cache:
   https://s3cur3th1ssh1t.github.io/feed.xml:
     latest_id: https://s3cur3th1ssh1t.github.io/Revisiting_Cross_Session_Activation_Attacks
   https://secret.club/feed.xml:
-    latest_id: https://secret.club/2025/06/02/hypervisors-for-memory-introspection-and-reverse-engineering
+    latest_id: https://secret.club/2026/05/21/striga
   https://syst3mfailure.io/feed.xml:
     latest_id: https://syst3mfailure.io/rbtree-family-drama/
   https://talkback.sh/tech/feed/:
-    latest_id: https://github.com/tg12/phantomstars
+    latest_id: https://github.com/ai-boost/awesome-harness-engineering
   https://the-deniss.github.io/feed.xml:
     latest_id: https://the-deniss.github.io/posts/avast-privileged-arbitrary-file-create-on-restore
   https://wechat2rss.xlab.app/feed/059ae07ca76f11c6e9f9fad7698ab205b3b039c8.xml:

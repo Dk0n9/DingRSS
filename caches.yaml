@@ -8,7 +8,7 @@ cache:
   https://blog.badsectorlabs.com/feeds/all.atom.xml:
     latest_id: tag:blog.badsectorlabs.com,2026-04-06:/taking-a-break-2026-04-06.html
   https://blog.doyensec.com/atom.xml:
-    latest_id: https://blog.doyensec.com/2026/05/25/cloudsectidbits-elbaph-alb
+    latest_id: https://blog.doyensec.com/2026/05/27/aikido-xbow
   https://blog.gentilkiwi.com/feed:
     latest_id: http://blog.gentilkiwi.com/?p=3321
   https://blog.redxorblue.com/atom.xml:
@@ -60,7 +60,7 @@ cache:
   https://syst3mfailure.io/feed.xml:
     latest_id: https://syst3mfailure.io/rbtree-family-drama/
   https://talkback.sh/tech/feed/:
-    latest_id: https://github.com/moio9/Nfs-Most-Wanted-Online
+    latest_id: https://baldur.dk/blog/strix-ai-pentester-rce.html
   https://the-deniss.github.io/feed.xml:
     latest_id: https://the-deniss.github.io/posts/avast-privileged-arbitrary-file-create-on-restore
   https://wechat2rss.xlab.app/feed/059ae07ca76f11c6e9f9fad7698ab205b3b039c8.xml:

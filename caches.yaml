@@ -60,7 +60,7 @@ cache:
   https://syst3mfailure.io/feed.xml:
     latest_id: https://syst3mfailure.io/rbtree-family-drama/
   https://talkback.sh/tech/feed/:
-    latest_id: https://malext.io/reports/SearchJack/
+    latest_id: https://medium.com/@toneillcodes/advanced-evasion-tradecraft-precision-module-stomping-b51feb0978fe
   https://the-deniss.github.io/feed.xml:
     latest_id: https://the-deniss.github.io/posts/avast-privileged-arbitrary-file-create-on-restore
   https://wechat2rss.xlab.app/feed/059ae07ca76f11c6e9f9fad7698ab205b3b039c8.xml:
@@ -74,10 +74,10 @@ cache:
   https://www.cobaltstrike.com/blog/feed/atom/:
     latest_id: https://www.cobaltstrike.com/?p=12199
   https://www.praetorian.com/blog/feed/atom/:
-    latest_id: https://www.praetorian.com/?p=12688
+    latest_id: https://www.praetorian.com/?p=12734
   https://www.rcesecurity.com/feed/:
     latest_id: https://www.rcesecurity.com/2026/03/stackfield-desktop-app-rce-via-path-traversal-and-arbitrary-file-write-cve-2026-28373/
   https://www.zerodayinitiative.com/blog/?format=rss:
-    latest_id: 5894c269e4fcb5e65a1ed623:58a5b38cb3db2bd67b608658:6a0847fb9b0d09551d6a5fa1
+    latest_id: 5894c269e4fcb5e65a1ed623:58a5b38cb3db2bd67b608658:6a28516a5b1363205db7b4cc
   https://xlab.tencent.com/cn/feed/:
     latest_id: https://xlab.tencent.com/cn/2026/02/28/ghost-dependency-agentic-coding-supply-chain-threat/

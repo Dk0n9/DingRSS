@@ -2,7 +2,7 @@ cache:
   Placeholder:
     latest_id: this is placeholder
   http://rss.ricterz.me/hacktivity:
-    latest_id: https://hackerone.com/reports/3815767
+    latest_id: https://hackerone.com/reports/3606773
   https://3gstudent.github.io/atom.xml:
     latest_id: https://3gstudent.github.io/Java%E5%88%A9%E7%94%A8%E6%8A%80%E5%B7%A7-Jetty-Servlet%E5%9E%8B%E5%86%85%E5%AD%98%E9%A9%AC
   https://blog.badsectorlabs.com/feeds/all.atom.xml:
@@ -14,7 +14,7 @@ cache:
   https://blog.redxorblue.com/atom.xml:
     latest_id: tag:blogger.com,1999:blog-8176792450471116129.post-374315080104864386
   https://blog.xpnsec.com/rss.xml:
-    latest_id: https://blog.xpnsec.com/prompt-engineering-for-security-agents/
+    latest_id: https://blog.xpnsec.com/accelerating-edr-evasion-with-llm/
   https://casvancooten.com/posts/index.xml:
     latest_id: https://casvancooten.com/posts/2025/02/abusing-vs-codes-bootstrapping-functionality-to-quietly-load-malicious-extensions/
   https://devco.re/rss:
@@ -60,7 +60,7 @@ cache:
   https://syst3mfailure.io/feed.xml:
     latest_id: https://syst3mfailure.io/rbtree-family-drama/
   https://talkback.sh/tech/feed/:
-    latest_id: https://leetarxiv.substack.com/p/twists-of-elliptic-curves
+    latest_id: https://blog.dshr.org/2026/07/microsofts-project-silica.html
   https://the-deniss.github.io/feed.xml:
     latest_id: https://the-deniss.github.io/posts/avast-privileged-arbitrary-file-create-on-restore
   https://wechat2rss.xlab.app/feed/059ae07ca76f11c6e9f9fad7698ab205b3b039c8.xml:

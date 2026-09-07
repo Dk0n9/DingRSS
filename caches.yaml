@@ -18,7 +18,7 @@ cache:
   https://casvancooten.com/posts/index.xml:
     latest_id: https://casvancooten.com/posts/2025/02/abusing-vs-codes-bootstrapping-functionality-to-quietly-load-malicious-extensions/
   https://devco.re/rss:
-    latest_id: https://devco.re/blog/2026/07/30/dev-meet-red-team-ama-v2026-06-17
+    latest_id: https://devco.re/blog/2026/09/07/2026-devcore-cybersecurity-scholarship-application-opens
   https://exploit.ph/feeds/all.atom.xml:
     latest_id: tag:exploit.ph,2023-08-08:/des-is-useful.html
   https://gist.github.com/CCob.atom:

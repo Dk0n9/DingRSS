@@ -78,6 +78,6 @@ cache:
   https://www.rcesecurity.com/feed/:
     latest_id: https://www.rcesecurity.com/2026/10/imperia-cms-siteactive-template-unauthenticated-ssti-rce-cve-2026-110355/
   https://www.zerodayinitiative.com/blog/?format=rss:
-    latest_id: 5894c269e4fcb5e65a1ed623:58a5b38cb3db2bd67b608658:6ad793cedec4dc22329901f0
+    latest_id: 5894c269e4fcb5e65a1ed623:58a5b38cb3db2bd67b608658:6af35bb88f20d72b231b118a
   https://xlab.tencent.com/cn/feed/:
     latest_id: https://xlab.tencent.com/cn/2026/07/17/xuanwu-atuin-cybergym-glm52/
